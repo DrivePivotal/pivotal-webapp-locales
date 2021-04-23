@@ -19,12 +19,6 @@ on:
       - completed
   status: {}
 jobs:
-  triage:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/labeler@main
-      with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
   automerge:
     runs-on: ubuntu-latest
     steps:
@@ -32,3 +26,4 @@ jobs:
         uses: "pascalgn/automerge-action@v0.13.1"
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          MERGE_LABELS: ""
