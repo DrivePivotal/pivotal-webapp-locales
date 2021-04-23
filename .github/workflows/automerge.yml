@@ -14,10 +14,10 @@ on:
   pull_request:
     types:
       - opened
-  pull_request_target:
+  check_suite:
     types:
-      - opened
-
+      - completed
+  status: {}
 jobs:
   automerge:
     runs-on: ubuntu-latest
