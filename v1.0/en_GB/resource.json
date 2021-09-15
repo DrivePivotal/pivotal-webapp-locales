@@ -125,5 +125,6 @@
     "insurance_requirements": "",
     "claims_history": "",
     "sur_name": "Surname",
-    "date_of_birth": "Date Of Birth"
+    "date_of_birth": "Date Of Birth",
+    "company_details_title": "Company Details"
 }
