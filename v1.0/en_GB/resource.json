@@ -123,5 +123,7 @@
     "registered_office": "",
     "email": "",
     "insurance_requirements": "",
-    "claims_history": ""
+    "claims_history": "",
+    "sur_name": "Surname",
+    "date_of_birth": "Date Of Birth"
 }
