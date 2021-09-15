@@ -123,5 +123,7 @@
     "registered_office": "Registered office",
     "email": "contact@drivepivotal.com",
     "insurance_requirements": "Insurance Requirements",
-    "claims_history": "Claims History"
+    "claims_history": "Claims History",
+    "sur_name": "",
+    "date_of_birth": ""
 }
