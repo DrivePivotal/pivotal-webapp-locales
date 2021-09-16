@@ -126,5 +126,21 @@
     "claims_history": "",
     "sur_name": "Surname",
     "date_of_birth": "Date Of Birth",
-    "company_details_title": "Company Details"
+    "company_details_title": "Company Details",
+    "licence_check_step": "",
+    "your_licence": "",
+    "driving_licence_number": "",
+    "requesting_company": "",
+    "reason_for_processing_title": "",
+    "confirm_legal": "",
+    "licence_personal_details_title": "",
+    "pending_conviction_title": "",
+    "pending_conviction_question": "",
+    "pending_conviction_details_title": "",
+    "declaration_title": "",
+    "declaration_content": "",
+    "declaration_content_middle": "",
+    "declaration_content_last": "",
+    "i": "",
+    "confirm_that": ""
 }
