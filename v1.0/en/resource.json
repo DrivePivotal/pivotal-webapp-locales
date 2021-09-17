@@ -142,5 +142,7 @@
     "declaration_content_middle": "I understand DVLA will disclose to all companies listed in Section 1, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided.",
     "declaration_content_last": "This declaration will expire when I cease driving in connection with the company or in any case, three years from the date of my signature.",
     "i": "I",
-    "confirm_that": "confirm that i have read the declaration and give permission for my driving licence to be checked against the DVLA"
+    "confirm_that": "confirm that i have read the declaration and give permission for my driving licence to be checked against the DVLA",
+    "identity_check": "Identity",
+    "licence_check": "Licence"
 }
