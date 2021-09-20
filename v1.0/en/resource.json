@@ -130,7 +130,7 @@
     "licence_check_step": "YOU ARE IN STEP 4 OF 6",
     "your_licence": "YOUR LICENCE",
     "driving_licence_number": "Driving Licence Number",
-    "requesting_company": "InMotion Ventures 3 Ltd (Trading as PIVOTAL) Intermediary: Licence Check Ltd",
+    "requesting_company": "Requesting company: InMotion Ventures 3 Ltd (Trading as PIVOTAL)",
     "reason_for_processing_title": "Reason For Processing",
     "confirm_legal": "To confirm legal entitlement to drive in compliance with the duty of care and legislative requirements",
     "licence_personal_details_title": "Personal Details",
@@ -144,5 +144,6 @@
     "i": "I",
     "confirm_that": "confirm that i have read the declaration and give permission for my driving licence to be checked against the DVLA",
     "identity_check": "Identity",
-    "licence_check": "Licence"
+    "licence_check": "Licence",
+    "intermediary": "Intermediary: Licence Check Ltd"
 }
