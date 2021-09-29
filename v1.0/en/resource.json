@@ -145,5 +145,6 @@
     "confirm_that": "confirm that i have read the declaration and give permission for my driving licence to be checked against the DVLA",
     "identity_check": "Identity",
     "licence_check": "Licence",
-    "intermediary": "Intermediary: Licence Check Ltd"
+    "intermediary": "Intermediary: Licence Check Ltd",
+    "less_than_1000_characters": "Please enter not more than 1000 characters"
 }
