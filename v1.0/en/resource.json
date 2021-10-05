@@ -146,5 +146,7 @@
     "identity_check": "Identity",
     "licence_check": "Licence",
     "intermediary": "Intermediary: Licence Check Ltd",
-    "less_than_1000_characters": "Please enter not more than 1000 characters"
+    "less_than_1000_characters": "Please enter not more than 1000 characters",
+    "max_file_detect": "You have reached the maximum file limit. Please review the files you have uploaded and remove as required. Alternative please contact Customer Services.",
+    "upload_guideline": "Please upload documentation to evidence your no claims bonus. This should be your most recent renewal notice or evidence of your last cancelled lapsed policy dated within the last 12 months. Please note a copy of your certificate or schedule is not sufficient proof."
 }

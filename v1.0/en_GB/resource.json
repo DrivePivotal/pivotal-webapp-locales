@@ -146,5 +146,7 @@
     "identity_check": "Identity ",
     "licence_check": "",
     "intermediary": "",
-    "less_than_1000_characters": ""
+    "less_than_1000_characters": "",
+    "max_file_detect": "",
+    "upload_guideline": ""
 }
