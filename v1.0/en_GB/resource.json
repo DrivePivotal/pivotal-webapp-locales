@@ -150,5 +150,6 @@
     "max_file_detect": "",
     "upload_guideline": "",
     "pending_conviction_select_required": "",
-    "no_claims_bonus_evidence": ""
+    "no_claims_bonus_evidence": "",
+    "consent_content": ""
 }
