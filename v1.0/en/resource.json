@@ -152,5 +152,6 @@
     "pending_conviction_select_required": "Please select yes or no",
     "no_claims_bonus_evidence": "NO CLAIMS BONUS EVIDENCE",
     "consent_content": "\n Pivotal, (InMotion Ventures 3 Limited) will collect your personal information for the purposes of verifying your identity and affordability status, to enable the parties to enter into an agreement for the provision of services.<br \/>Pivotal will share your personal details with the following companies, to carry out the identity and affordability verification checks:<br\/><ul><li>Hooyu Ltd<\/li><li>Equifax Ltd<\/li><\/ul>Pivotal will process your personal information on the following lawful bases:\n<ul><li><b>Contract:<\/b> the processing is necessary before entering into a contract for the provision of Pivotal’s services.<\/li><li><b>Legal obligation:<\/b> the processing is necessary to ensure each parties’ compliance with the law.<\/li><li><b>Consent:<\/b> you have given clear consent for Pivotal to process your personal data for the purposes of carrying out identity and affordability checks.<\/li>\n<\/ul>",
-    "consent": "Consent"
+    "consent": "Consent",
+    "agree_personal_details": "In order to proceed, you must read and agree with the consent statement."
 }
