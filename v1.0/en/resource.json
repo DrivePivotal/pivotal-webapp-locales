@@ -25,7 +25,7 @@
     "home_page_what": "WHAT DO WE NEED FROM YOU",
     "home_page_text1": "You will need to complete Terms & Conditions last.",
     "home_page_introduction_message": "Let's get you on the road to driving freedom. This should take you no more than 10 minutes to complete - and don’t worry, you can return to this form later by using the link in the email we sent you.",
-    "home_page_description": "Viverra vitae congue eu consequat ac felis donec et odio. Lacus luctus accumsan tortor posuere. Eu feugiat pretium nibh ipsum consequat nisl vel pretium. Dui sapien eget mi proin sed libero enim sed faucibus. Sollicitudin nibh sit amet commodo nulla facilisi.",
+    "home_page_description": "To progress your membership application, we need to understand a few important things. Make your way through the sections below to verify your identity, share your driving history and complete an affordability assessment via Open Banking (Don’t worry, this doesn’t affect your credit score).",
     "insurance_claims_check_page_step": "YOU ARE IN STEP 2 OF 5",
     "insurance_claims_check_note": "Acceptable documents up to 3mb in size. Only JPEG, PNG or PDF.",
     "insurance_claims_warning_message1": "Error. Please complete all questions and confirmation before submitting this form.",
@@ -142,7 +142,7 @@
     "declaration_content_middle": "I understand DVLA will disclose to all companies listed in Section 1, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided.",
     "declaration_content_last": "This declaration will expire when I cease driving in connection with the company or in any case, three years from the date of my signature.",
     "i": "I",
-    "confirm_that": "confirm that i have read the declaration and give permission for my driving licence to be checked against the DVLA",
+    "confirm_that": "I confirm that I have read the declaration and give permission for my driving licence to be checked against the DVLA",
     "identity_check": "Identity",
     "licence_check": "Licence",
     "intermediary": "Intermediary: Licence Check Ltd",
@@ -153,5 +153,6 @@
     "no_claims_bonus_evidence": "NO CLAIMS BONUS EVIDENCE",
     "consent_content": "\n Pivotal, (InMotion Ventures 3 Limited) will collect your personal information for the purposes of verifying your identity and affordability status, to enable the parties to enter into an agreement for the provision of services.<br \/>Pivotal will share your personal details with the following companies, to carry out the identity and affordability verification checks:<br\/><ul><li>Hooyu Ltd<\/li><li>Equifax Ltd<\/li><\/ul>Pivotal will process your personal information on the following lawful bases:\n<ul><li><b>Contract:<\/b> the processing is necessary before entering into a contract for the provision of Pivotal’s services.<\/li><li><b>Legal obligation:<\/b> the processing is necessary to ensure each parties’ compliance with the law.<\/li><li><b>Consent:<\/b> you have given clear consent for Pivotal to process your personal data for the purposes of carrying out identity and affordability checks.<\/li>\n<\/ul>",
     "consent": "Consent",
-    "agree_personal_details": "In order to proceed, you must read and agree with the consent statement."
+    "agree_personal_details": "In order to proceed, you must read and agree with the consent statement.",
+    "next_to_payment": "PAYMENT"
 }
