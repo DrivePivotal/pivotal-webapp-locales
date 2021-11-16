@@ -160,7 +160,7 @@
     "great_news": "Great news - we've received your joining fee and your Pivotal membership starts now!",
     "payment_guideline_1": "As our newest Pivotal member, you have joined the waiting list for your selected membership tier. Our team will be in touch as soon as a vehicle is ready for you.",
     "payment_guideline_2": "In the meantime, we have sent you an email with more information about your membership and what to expect next.",
-    "payment_guideline_3": "If you have any questions, don't hesitate to <a style='text-decoration: underline; font-weight: bold;' href=''>contact us<\/a>.",
+    "payment_guideline_3": "If you have any questions, don't hesitate to <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/contact-us\/' target='_blank'>contact us<\/a>.",
     "close_window": "You can now close this window or return to the dashboard",
     "return_to_dashboard": "RETURN TO DASHBOARD",
     "membership_joining_fee": "Pivotal membership joining fee",
@@ -171,7 +171,7 @@
     "joining_contact_content": "The Pivotal team will be in touch directly as soon as your vehicle is ready.",
     "order_summary": "ORDER SUMMARY",
     "term_and_condition_title": "TERMS AND CONDITIONS",
-    "please_read_term_condition": "Please read our <a style='text-decoration: underline; font-weight: bold;' href=''>Terms and Conditions<\/a> and check the box below to accept",
+    "please_read_term_condition": "Please read our <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/terms-conditions\/' target='_blank'>Terms and Conditions<\/a> and check the box below to accept",
     "accept_term_condition": "I accept Pivotal's Terms and Conditions",
     "pay_now": "PAY NOW",
     "payment_validate_checkbox": "You must accept the Terms and Conditions before proceeding with the checkout"
