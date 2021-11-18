@@ -174,5 +174,7 @@
     "please_read_term_condition": "",
     "accept_term_condition": "",
     "pay_now": "",
-    "payment_validate_checkbox": ""
+    "payment_validate_checkbox": "",
+    "home_page_incomplete_title": "",
+    "home_page_incomplete_description": ""
 }

@@ -174,5 +174,7 @@
     "please_read_term_condition": "Please read our <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/terms-conditions\/' target='_blank'>Terms and Conditions<\/a> and check the box below to accept",
     "accept_term_condition": "I accept Pivotal's Terms and Conditions",
     "pay_now": "PAY NOW",
-    "payment_validate_checkbox": "You must accept the Terms and Conditions before proceeding with the checkout"
+    "payment_validate_checkbox": "You must accept the Terms and Conditions before proceeding with the checkout",
+    "home_page_incomplete_title": "WELCOME BACK",
+    "home_page_incomplete_description": "Based on the information you provided, we just need you to reconfirm some details before we can progress your application. Please revisit the relevant section(s) below and follow the steps to share your accurate and up-to-date information. You can return to this page anytime by using the link in the email we sent you."
 }
