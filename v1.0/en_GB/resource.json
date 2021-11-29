@@ -188,5 +188,6 @@
     "what_to_change_payment_method": "",
     "change_payment_method_guideline": "",
     "change_payment_method_title": "",
-    "pay_via_bank_transfer": ""
+    "pay_via_bank_transfer": "",
+    "just_send_email": ""
 }
