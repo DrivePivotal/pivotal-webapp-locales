@@ -189,5 +189,6 @@
     "change_payment_method_guideline": "If you would prefer to pay by card instead, click the button below to return to the <br \/> summary page and select ‘Pay by card’ and disregard the email to pay via bank transfer.",
     "change_payment_method_title": "CHANGE PAYMENT METHOD",
     "pay_via_bank_transfer": "Pay via bank transfer",
-    "just_send_email": "We’ve just sent you an email containing our bank transfer information, please check your inbox for a message from finance@drive.pivotal.com"
+    "just_send_email": "We’ve just sent you an email containing our bank transfer information, please check your inbox for a message from finance@drive.pivotal.com",
+    "select_an_option": "Select an option"
 }
