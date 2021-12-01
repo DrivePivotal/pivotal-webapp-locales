@@ -196,5 +196,8 @@
     "first_name_placeholder": "First Name *",
     "last_name_placeholder": "Last Name *",
     "middle_name_placeholder": "Middle Name",
-    "salutation": "Salutation *"
+    "salutation": "Salutation *",
+    "payment_method_select_title": "HOW WOULD YOU LIKE TO PAY?",
+    "payment_method_select_subtitle": "Your payment options are:",
+    "payment_method_by_card": "Pay by card"
 }
