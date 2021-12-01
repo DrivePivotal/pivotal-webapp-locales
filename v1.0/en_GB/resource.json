@@ -192,5 +192,9 @@
     "just_send_email": "",
     "select_an_option": "",
     "delivery_date": "",
-    "payment_check_page_step": ""
+    "payment_check_page_step": "",
+    "first_name_placeholder": "",
+    "last_name_placeholder": "",
+    "middle_name_placeholder": "",
+    "salutation": ""
 }
