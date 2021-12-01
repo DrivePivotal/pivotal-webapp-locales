@@ -196,5 +196,8 @@
     "first_name_placeholder": "",
     "last_name_placeholder": "",
     "middle_name_placeholder": "",
-    "salutation": ""
+    "salutation": "",
+    "payment_method_select_title": "",
+    "payment_method_select_subtitle": "",
+    "payment_method_by_card": ""
 }
