@@ -191,5 +191,5 @@
     "pay_via_bank_transfer": "Pay via bank transfer",
     "just_send_email": "We’ve just sent you an email containing our bank transfer information, please check your inbox for a message from finance@drive.pivotal.com",
     "select_an_option": "Select an option",
-    "delivery_date": "Delivery date *"
+    "delivery_date": "Delivery date "
 }
