@@ -191,5 +191,6 @@
     "pay_via_bank_transfer": "",
     "just_send_email": "",
     "select_an_option": "",
-    "delivery_date": ""
+    "delivery_date": "",
+    "payment_check_page_step": ""
 }
