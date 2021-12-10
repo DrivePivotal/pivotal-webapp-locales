@@ -199,5 +199,8 @@
     "salutation": "",
     "payment_method_select_title": "",
     "payment_method_select_subtitle": "",
-    "payment_method_by_card": ""
+    "payment_method_by_card": "",
+    "error_duplicated_home_address": "",
+    "error_duplicated_insured_address": "",
+    "input_billing_postcode": ""
 }
