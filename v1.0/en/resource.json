@@ -199,5 +199,8 @@
     "salutation": "Salutation *",
     "payment_method_select_title": "HOW WOULD YOU LIKE TO PAY?",
     "payment_method_select_subtitle": "Your payment options are:",
-    "payment_method_by_card": "Pay by card"
+    "payment_method_by_card": "Pay by card",
+    "error_duplicated_home_address": "The address you've entered matches your home address. Either enter a different address or review your response to the question above.",
+    "error_duplicated_insured_address": "The address you've entered matches your insured address. Either enter a different address or review your response to the question above.",
+    "input_billing_postcode": "Billing Postcode"
 }
