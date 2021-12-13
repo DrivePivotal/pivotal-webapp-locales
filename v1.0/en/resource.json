@@ -204,5 +204,6 @@
     "error_duplicated_insured_address": "The address you've entered matches your insured address. Either enter a different address or review your response to the question above.",
     "input_billing_postcode": "Billing Postcode",
     "page_could_not_be_found": "This page could not be found.",
-    "find_billing_address": "Find Billing Address"
+    "find_billing_address": "Find Billing Address",
+    "error_duplicated_addresses": "The addresses you've entered are the same. Either enter a different address or review your response to the question above."
 }
