@@ -301,5 +301,9 @@
     "payment_error_withdrawal_count_limit_exceeded_description": "",
     "payment_error_withdrawal_count_limit_exceeded_next_step": "",
     "payment_error_other_description": "",
-    "payment_error_other_next_step": ""
+    "payment_error_other_next_step": "",
+    "common_error_message": "",
+    "common_error_title": "",
+    "common_error_navigation": "",
+    "please_wait_prepare_payment": ""
 }
