@@ -305,5 +305,10 @@
     "common_error_message": "<p>So that we can rectify the issue, please get in touch with Pivotal's support team using the contact option below. When you reach one of our team members, let them know which step of the onboarding process you got to.<\/p> <p> They will be able to pinpoint the problem and advice on next steps.<\/p>",
     "common_error_title": "Oops. We seem to have run into a problem.",
     "common_error_navigation": "Click here to go back to the onboarding homepage.",
-    "please_wait_prepare_payment": "Please wait while we prepare your payment. This should only take a few seconds."
+    "please_wait_prepare_payment": "Please wait while we prepare your payment. This should only take a few seconds.",
+    "generic_page_title": "WE'VE RUN INTO A PROBLEM ",
+    "generic_problem_content": "Oops. We seem to have run into a problem. Please try again and contact us if the issue persists.",
+    "generic_click_here": " to go back to the onboarding homepage.",
+    "click": "Click",
+    "here": "here"
 }
