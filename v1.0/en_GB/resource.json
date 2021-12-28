@@ -305,5 +305,10 @@
     "common_error_message": "",
     "common_error_title": "",
     "common_error_navigation": "",
-    "please_wait_prepare_payment": ""
+    "please_wait_prepare_payment": "",
+    "generic_page_title": "",
+    "generic_problem_content": "",
+    "generic_click_here": "",
+    "click": "",
+    "here": ""
 }
