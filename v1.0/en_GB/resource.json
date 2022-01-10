@@ -311,5 +311,9 @@
     "generic_click_here": "",
     "click": "",
     "here": "",
-    "please_wait_payment": ""
+    "please_wait_payment": "",
+    "kyc_step_footer_passed": "",
+    "kyc_step_footer_failed": "",
+    "kyc_step_failed_popup_content": "",
+    "kyc_step_popup_footer": ""
 }
