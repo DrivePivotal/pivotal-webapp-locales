@@ -1,319 +1,956 @@
 {
-    "personal_details_page_title": "",
-    "personal_details_page_step": "",
-    "personal_details_brief_des1": "",
-    "personal_details_brief_des2": "",
-    "personal_details_warning_message1": "",
-    "personal_details_step_2": "",
-    "personal_details_step_3": "",
-    "personal_details_subscription": "",
-    "personal_details_checkbox1": "",
-    "terms_and_conditions_brief_agreement1": "",
-    "terms_and_conditions_brief_agreement2": "",
-    "terms_and_conditions_brief_agreement3": "",
-    "terms_and_conditions_confirmation_checkbox2": "",
-    "terms_and_conditions_warning": "",
-    "terms_and_conditions_policy": "",
-    "terms_and_conditions_page_step": "",
-    "terms_and_conditions_note": "",
-    "phone_number_verification_title": "",
-    "phone_number_verification_des": "",
-    "phone_number_verification_error": "",
-    "phone_number_verification_resend_title": "",
-    "home_page_title": "",
-    "home_page_done_message": "",
-    "home_page_what": "",
-    "home_page_text1": "",
-    "home_page_introduction_message": "",
-    "home_page_description": "",
-    "insurance_claims_check_page_step": "",
-    "insurance_claims_check_note": "",
-    "insurance_claims_warning_message1": "",
-    "error_title": "",
-    "error_common": "",
-    "action_enter_address_manually": "",
-    "input_first_name": "",
-    "input_middle_name": "",
-    "input_last_name": "",
-    "input_phone_number": "",
-    "input_email_address": "",
-    "input_postcode": "",
-    "input_password": "",
-    "input_address_line1": "",
-    "input_address_line2": "",
-    "input_city": "",
-    "input_country": "",
-    "input_salutation": "",
-    "input_preferred_model": "",
-    "input_colour_preference": "",
-    "input_preferred_fuel_type": "",
-    "input_preferred_delivery_date": "",
-    "input_preferred_tier": "",
-    "button_submit_info": "",
-    "validation_password_min_char": "",
-    "validation_password_include_symbol": "",
-    "validation_required": "",
-    "validation_invalid": "",
-    "validation_no_addresses_found": "",
-    "footer_help_title": "",
-    "footer_help_button_checkout_our_faq": "",
-    "footer_help_time1": "",
-    "footer_help_time2": "",
-    "footer_help_time3": "",
-    "personal_subscription": "",
-    "business_subscription": "",
-    "sustainable_future": "",
-    "start_a_subscription": "",
-    "tiers": "",
-    "tiers_blue": "",
-    "tiers_indigo": "",
-    "tiers_violet": "",
-    "tiers_ultraviolet": "",
-    "tiers_business": "",
-    "about_pivotal": "",
-    "about_pivotal_faqs": "",
-    "about_pivotal_blog": "",
-    "about_pivotal_sustainable_future": "",
-    "legal": "",
-    "legal_complaints": "",
-    "terms_and_conditions": "",
-    "copy_right": "",
-    "pivotal_des": "",
-    "privacy_policy": "",
-    "and": "",
-    "close": "",
-    "personal_details": "",
-    "identity_and_licence_check": "",
-    "affordability_check": "",
-    "insurance_claims_check": "",
-    "payment": "",
-    "status": "",
-    "status_to_be_completed": "",
-    "status_in_progress": "",
-    "status_completed": "",
-    "outcome": "",
-    "outcome_pass": "",
-    "outcome_fail": "",
-    "outcome_investigate": "",
-    "your_progress": "",
-    "complete": "",
-    "contact_us": "",
-    "all_done": "",
-    "date_format": "",
-    "your_name": "",
-    "your_contact_information": "",
-    "your_subscription_preferences": "",
-    "find_address": "",
-    "finish_later": "",
-    "required_to_answer": "",
-    "add_claim": "",
-    "add_more_claim": "",
-    "cancel": "",
-    "delete": "",
-    "ok": "",
-    "are_your_sure": "",
-    "click_to_upload_your_document": "",
-    "document_uploaded": "",
-    "click_to_add_another_file": "",
-    "upload_succeeded": "",
-    "upload_failed": "",
-    "not_supported": "",
-    "phone_number": "",
-    "phone_number_text": "",
-    "registered_office": "",
-    "email": "",
-    "insurance_requirements": "",
-    "claims_history": "",
-    "sur_name": "Surname",
-    "date_of_birth": "Date Of Birth",
-    "company_details_title": "Company Details",
-    "licence_check_step": "",
-    "your_licence": "",
-    "driving_licence_number": "",
-    "requesting_company": "",
-    "reason_for_processing_title": "",
-    "confirm_legal": "",
-    "licence_personal_details_title": "",
-    "pending_conviction_title": "",
-    "pending_conviction_question": "",
-    "pending_conviction_details_title": "",
-    "declaration_title": "",
-    "declaration_content": "",
-    "declaration_content_middle": "",
-    "declaration_content_last": "",
-    "i": "",
-    "confirm_that": "",
-    "identity_check": "Identity ",
-    "licence_check": "",
-    "intermediary": "",
-    "less_than_1000_characters": "",
-    "max_file_detect": "",
-    "upload_guideline": "",
-    "pending_conviction_select_required": "",
-    "no_claims_bonus_evidence": "",
-    "consent_content": "",
-    "consent": "",
-    "agree_personal_details": "",
-    "next_to_payment": "",
-    "payment_complete": "",
-    "welcome_driving": "",
-    "great_news": "",
-    "payment_guideline_1": "",
-    "payment_guideline_2": "",
-    "payment_guideline_3": "",
-    "close_window": "",
-    "return_to_dashboard": "",
-    "membership_joining_fee": "",
-    "membership_joining_fee_value": "",
-    "joining_fee_title": "",
-    "joining_star_content": "",
-    "joining_calendar_content": "",
-    "joining_contact_content": "",
-    "order_summary": "",
-    "term_and_condition_title": "",
-    "please_read_term_condition": "",
-    "accept_term_condition": "",
-    "pay_now": "",
-    "payment_validate_checkbox": "",
-    "home_page_incomplete_title": "",
-    "home_page_incomplete_description": "",
-    "input_billing_address_line1": "",
-    "input_billing_address_line2": "",
-    "input_billing_city": "",
-    "input_billing_country": "",
-    "action_enter_billing_address_manually": "",
-    "not_receive_email": "",
-    "check_that_email": "",
-    "resend_email": "",
-    "what_to_change_payment_method": "",
-    "change_payment_method_guideline": "",
-    "change_payment_method_title": "",
-    "pay_via_bank_transfer": "",
-    "just_send_email": "",
-    "select_an_option": "",
-    "delivery_date": "",
-    "payment_check_page_step": "",
-    "first_name_placeholder": "",
-    "last_name_placeholder": "",
-    "middle_name_placeholder": "",
-    "salutation": "",
-    "payment_method_select_title": "",
-    "payment_method_select_subtitle": "",
-    "payment_method_by_card": "",
-    "error_duplicated_home_address": "",
-    "error_duplicated_insured_address": "",
-    "input_billing_postcode": "",
-    "page_could_not_be_found": "",
-    "find_billing_address": "",
-    "error_duplicated_addresses": "",
-    "payment_error_authentication_required_description": "",
-    "payment_error_authentication_required_next_step": "",
-    "payment_error_approve_with_id_description": "",
-    "payment_error_approve_with_id_next_step": "",
-    "payment_error_call_issuer_description": "",
-    "payment_error_call_issuer_next_step": "",
-    "payment_error_card_not_supported_description": "",
-    "payment_error_card_not_supported_next_step": "",
-    "payment_error_card_velocity_exceeded_description": "",
-    "payment_error_card_velocity_exceeded_next_step": "",
-    "payment_error_currency_not_supported_description": "",
-    "payment_error_currency_not_supported_next_step": "",
-    "payment_error_do_not_honor_description": "",
-    "payment_error_do_not_honor_next_step": "",
-    "payment_error_do_not_try_again_description": "",
-    "payment_error_do_not_try_again_next_step": "",
-    "payment_error_duplicate_transaction_description": "",
-    "payment_error_duplicate_transaction_next_step": "",
-    "payment_error_expired_card_description": "",
-    "payment_error_expired_card_next_step": "",
-    "payment_error_fraudulent_description": "",
-    "payment_error_fraudulent_next_step": "",
-    "payment_error_generic_decline_description": "",
-    "payment_error_generic_decline_next_step": "",
-    "payment_error_incorrect_number_description": "",
-    "payment_error_incorrect_number_next_step": "",
-    "payment_error_incorrect_cvc_description": "",
-    "payment_error_incorrect_cvc_next_step": "",
-    "payment_error_incorrect_pin_description": "",
-    "payment_error_incorrect_pin_next_step": "",
-    "payment_error_incorrect_zip_description": "",
-    "payment_error_incorrect_zip_next_step": "",
-    "payment_error_insufficient_funds_description": "",
-    "payment_error_insufficient_funds_next_step": "",
-    "payment_error_invalid_account_description": "",
-    "payment_error_invalid_account_next_step": "",
-    "payment_error_invalid_amount_description": "",
-    "payment_error_invalid_amount_next_step": "",
-    "payment_error_invalid_cvc_description": "",
-    "payment_error_invalid_cvc_next_step": "",
-    "payment_error_invalid_expiry_month_description": "",
-    "payment_error_invalid_expiry_month_next_step": "",
-    "payment_error_invalid_expiry_year_description": "",
-    "payment_error_invalid_expiry_year_next_step": "",
-    "payment_error_invalid_number_description": "",
-    "payment_error_invalid_number_next_step": "",
-    "payment_error_invalid_pin_description": "",
-    "payment_error_invalid_pin_next_step": "",
-    "payment_error_issuer_not_available_description": "",
-    "payment_error_issuer_not_available_next_step": "",
-    "payment_error_lost_card_description": "",
-    "payment_error_lost_card_next_step": "",
-    "payment_error_merchant_blacklist_description": "",
-    "payment_error_merchant_blacklist_next_step": "",
-    "payment_error_new_account_information_available_description": "",
-    "payment_error_new_account_information_available_next_step": "",
-    "payment_error_no_action_taken_description": "",
-    "payment_error_no_action_taken_next_step": "",
-    "payment_error_not_permitted_description": "",
-    "payment_error_not_permitted_next_step": "",
-    "payment_error_offline_pin_required_description": "",
-    "payment_error_offline_pin_required_next_step": "",
-    "payment_error_online_or_offline_pin_required_description": "",
-    "payment_error_online_or_offline_pin_required_next_step": "",
-    "payment_error_pickup_card_description": "",
-    "payment_error_pickup_card_next_step": "",
-    "payment_error_pin_try_exceeded_description": "",
-    "payment_error_pin_try_exceeded_next_step": "",
-    "payment_error_processing_error_description": "",
-    "payment_error_processing_error_next_step": "",
-    "payment_error_reenter_transaction_description": "",
-    "payment_error_reenter_transaction_next_step": "",
-    "payment_error_restricted_card_description": "",
-    "payment_error_restricted_card_next_step": "",
-    "payment_error_revocation_of_all_authorizations_description": "",
-    "payment_error_revocation_of_all_authorizations_next_step": "",
-    "payment_error_revocation_of_authorization_description": "",
-    "payment_error_revocation_of_authorization_next_step": "",
-    "payment_error_security_violation_description": "",
-    "payment_error_security_violation_next_step": "",
-    "payment_error_service_not_allowed_description": "",
-    "payment_error_service_not_allowed_next_step": "",
-    "payment_error_stolen_card_description": "",
-    "payment_error_stolen_card_next_step": "",
-    "payment_error_stop_payment_order_description": "",
-    "payment_error_stop_payment_order_next_step": "",
-    "payment_error_testmode_decline_description": "",
-    "payment_error_testmode_decline_next_step": "",
-    "payment_error_transaction_not_allowed_description": "",
-    "payment_error_transaction_not_allowed_next_step": "",
-    "payment_error_try_again_later_description": "",
-    "payment_error_try_again_later_next_step": "",
-    "payment_error_withdrawal_count_limit_exceeded_description": "",
-    "payment_error_withdrawal_count_limit_exceeded_next_step": "",
-    "payment_error_other_description": "",
-    "payment_error_other_next_step": "",
-    "common_error_message": "",
-    "common_error_title": "",
-    "common_error_navigation": "",
-    "please_wait_prepare_payment": "",
-    "generic_page_title": "",
-    "generic_problem_content": "",
-    "generic_click_here": "",
-    "click": "",
-    "here": "",
-    "please_wait_payment": "",
-    "kyc_step_footer_passed": "",
-    "kyc_step_footer_failed": "",
-    "kyc_step_failed_popup_content": "",
-    "kyc_step_popup_footer": ""
+    "personal_details_page_title": {
+        "translation": ""
+    },
+    "personal_details_page_step": {
+        "translation": ""
+    },
+    "personal_details_brief_des1": {
+        "translation": ""
+    },
+    "personal_details_brief_des2": {
+        "translation": ""
+    },
+    "personal_details_warning_message1": {
+        "translation": ""
+    },
+    "personal_details_step_2": {
+        "translation": ""
+    },
+    "personal_details_step_3": {
+        "translation": ""
+    },
+    "personal_details_subscription": {
+        "translation": ""
+    },
+    "personal_details_checkbox1": {
+        "translation": ""
+    },
+    "terms_and_conditions_brief_agreement1": {
+        "translation": ""
+    },
+    "terms_and_conditions_brief_agreement2": {
+        "translation": ""
+    },
+    "terms_and_conditions_brief_agreement3": {
+        "translation": ""
+    },
+    "terms_and_conditions_confirmation_checkbox2": {
+        "translation": ""
+    },
+    "terms_and_conditions_warning": {
+        "translation": ""
+    },
+    "terms_and_conditions_policy": {
+        "translation": ""
+    },
+    "terms_and_conditions_page_step": {
+        "translation": ""
+    },
+    "terms_and_conditions_note": {
+        "translation": ""
+    },
+    "phone_number_verification_title": {
+        "translation": ""
+    },
+    "phone_number_verification_des": {
+        "translation": ""
+    },
+    "phone_number_verification_error": {
+        "translation": ""
+    },
+    "phone_number_verification_resend_title": {
+        "translation": ""
+    },
+    "home_page_title": {
+        "translation": ""
+    },
+    "home_page_done_message": {
+        "translation": ""
+    },
+    "home_page_what": {
+        "translation": ""
+    },
+    "home_page_text1": {
+        "translation": ""
+    },
+    "home_page_introduction_message": {
+        "translation": ""
+    },
+    "home_page_description": {
+        "translation": ""
+    },
+    "insurance_claims_check_page_step": {
+        "translation": ""
+    },
+    "insurance_claims_check_note": {
+        "translation": ""
+    },
+    "insurance_claims_warning_message1": {
+        "translation": ""
+    },
+    "error_title": {
+        "translation": ""
+    },
+    "error_common": {
+        "translation": ""
+    },
+    "action_enter_address_manually": {
+        "translation": ""
+    },
+    "input_first_name": {
+        "translation": ""
+    },
+    "input_middle_name": {
+        "translation": ""
+    },
+    "input_last_name": {
+        "translation": ""
+    },
+    "input_phone_number": {
+        "translation": ""
+    },
+    "input_email_address": {
+        "translation": ""
+    },
+    "input_postcode": {
+        "translation": ""
+    },
+    "input_password": {
+        "translation": ""
+    },
+    "input_address_line1": {
+        "translation": ""
+    },
+    "input_address_line2": {
+        "translation": ""
+    },
+    "input_city": {
+        "translation": ""
+    },
+    "input_country": {
+        "translation": ""
+    },
+    "input_salutation": {
+        "translation": ""
+    },
+    "input_preferred_model": {
+        "translation": ""
+    },
+    "input_colour_preference": {
+        "translation": ""
+    },
+    "input_preferred_fuel_type": {
+        "translation": ""
+    },
+    "input_preferred_delivery_date": {
+        "translation": ""
+    },
+    "input_preferred_tier": {
+        "translation": ""
+    },
+    "button_submit_info": {
+        "translation": ""
+    },
+    "validation_password_min_char": {
+        "translation": ""
+    },
+    "validation_password_include_symbol": {
+        "translation": ""
+    },
+    "validation_required": {
+        "translation": ""
+    },
+    "validation_invalid": {
+        "translation": ""
+    },
+    "validation_no_addresses_found": {
+        "translation": ""
+    },
+    "footer_help_title": {
+        "translation": ""
+    },
+    "footer_help_button_checkout_our_faq": {
+        "translation": ""
+    },
+    "footer_help_time1": {
+        "translation": ""
+    },
+    "footer_help_time2": {
+        "translation": ""
+    },
+    "footer_help_time3": {
+        "translation": ""
+    },
+    "personal_subscription": {
+        "translation": ""
+    },
+    "business_subscription": {
+        "translation": ""
+    },
+    "sustainable_future": {
+        "translation": ""
+    },
+    "start_a_subscription": {
+        "translation": ""
+    },
+    "tiers": {
+        "translation": ""
+    },
+    "tiers_blue": {
+        "translation": ""
+    },
+    "tiers_indigo": {
+        "translation": ""
+    },
+    "tiers_violet": {
+        "translation": ""
+    },
+    "tiers_ultraviolet": {
+        "translation": ""
+    },
+    "tiers_business": {
+        "translation": ""
+    },
+    "about_pivotal": {
+        "translation": ""
+    },
+    "about_pivotal_faqs": {
+        "translation": ""
+    },
+    "about_pivotal_blog": {
+        "translation": ""
+    },
+    "about_pivotal_sustainable_future": {
+        "translation": ""
+    },
+    "legal": {
+        "translation": ""
+    },
+    "legal_complaints": {
+        "translation": ""
+    },
+    "terms_and_conditions": {
+        "translation": ""
+    },
+    "copy_right": {
+        "translation": ""
+    },
+    "pivotal_des": {
+        "translation": ""
+    },
+    "privacy_policy": {
+        "translation": ""
+    },
+    "and": {
+        "translation": ""
+    },
+    "close": {
+        "translation": ""
+    },
+    "personal_details": {
+        "translation": ""
+    },
+    "identity_and_licence_check": {
+        "translation": ""
+    },
+    "affordability_check": {
+        "translation": ""
+    },
+    "insurance_claims_check": {
+        "translation": ""
+    },
+    "payment": {
+        "translation": ""
+    },
+    "status": {
+        "translation": ""
+    },
+    "status_to_be_completed": {
+        "translation": ""
+    },
+    "status_in_progress": {
+        "translation": ""
+    },
+    "status_completed": {
+        "translation": ""
+    },
+    "outcome": {
+        "translation": ""
+    },
+    "outcome_pass": {
+        "translation": ""
+    },
+    "outcome_fail": {
+        "translation": ""
+    },
+    "outcome_investigate": {
+        "translation": ""
+    },
+    "your_progress": {
+        "translation": ""
+    },
+    "complete": {
+        "translation": ""
+    },
+    "contact_us": {
+        "translation": ""
+    },
+    "all_done": {
+        "translation": ""
+    },
+    "date_format": {
+        "translation": ""
+    },
+    "your_name": {
+        "translation": ""
+    },
+    "your_contact_information": {
+        "translation": ""
+    },
+    "your_subscription_preferences": {
+        "translation": ""
+    },
+    "find_address": {
+        "translation": ""
+    },
+    "finish_later": {
+        "translation": ""
+    },
+    "required_to_answer": {
+        "translation": ""
+    },
+    "add_claim": {
+        "translation": ""
+    },
+    "add_more_claim": {
+        "translation": ""
+    },
+    "cancel": {
+        "translation": ""
+    },
+    "delete": {
+        "translation": ""
+    },
+    "ok": {
+        "translation": ""
+    },
+    "are_your_sure": {
+        "translation": ""
+    },
+    "click_to_upload_your_document": {
+        "translation": ""
+    },
+    "document_uploaded": {
+        "translation": ""
+    },
+    "click_to_add_another_file": {
+        "translation": ""
+    },
+    "upload_succeeded": {
+        "translation": ""
+    },
+    "upload_failed": {
+        "translation": ""
+    },
+    "not_supported": {
+        "translation": ""
+    },
+    "phone_number": {
+        "translation": ""
+    },
+    "phone_number_text": {
+        "translation": ""
+    },
+    "registered_office": {
+        "translation": ""
+    },
+    "email": {
+        "translation": ""
+    },
+    "insurance_requirements": {
+        "translation": ""
+    },
+    "claims_history": {
+        "translation": ""
+    },
+    "sur_name": {
+        "translation": "Surname"
+    },
+    "date_of_birth": {
+        "translation": "Date Of Birth"
+    },
+    "company_details_title": {
+        "translation": "Company Details"
+    },
+    "licence_check_step": {
+        "translation": ""
+    },
+    "your_licence": {
+        "translation": ""
+    },
+    "driving_licence_number": {
+        "translation": ""
+    },
+    "requesting_company": {
+        "translation": ""
+    },
+    "reason_for_processing_title": {
+        "translation": ""
+    },
+    "confirm_legal": {
+        "translation": ""
+    },
+    "licence_personal_details_title": {
+        "translation": ""
+    },
+    "pending_conviction_title": {
+        "translation": ""
+    },
+    "pending_conviction_question": {
+        "translation": ""
+    },
+    "pending_conviction_details_title": {
+        "translation": ""
+    },
+    "declaration_title": {
+        "translation": ""
+    },
+    "declaration_content": {
+        "translation": ""
+    },
+    "declaration_content_middle": {
+        "translation": ""
+    },
+    "declaration_content_last": {
+        "translation": ""
+    },
+    "i": {
+        "translation": ""
+    },
+    "confirm_that": {
+        "translation": ""
+    },
+    "identity_check": {
+        "translation": "Identity "
+    },
+    "licence_check": {
+        "translation": ""
+    },
+    "intermediary": {
+        "translation": ""
+    },
+    "less_than_1000_characters": {
+        "translation": ""
+    },
+    "max_file_detect": {
+        "translation": ""
+    },
+    "upload_guideline": {
+        "translation": ""
+    },
+    "pending_conviction_select_required": {
+        "translation": ""
+    },
+    "no_claims_bonus_evidence": {
+        "translation": ""
+    },
+    "consent_content": {
+        "translation": ""
+    },
+    "consent": {
+        "translation": ""
+    },
+    "agree_personal_details": {
+        "translation": ""
+    },
+    "next_to_payment": {
+        "translation": ""
+    },
+    "payment_complete": {
+        "translation": ""
+    },
+    "welcome_driving": {
+        "translation": ""
+    },
+    "great_news": {
+        "translation": ""
+    },
+    "payment_guideline_1": {
+        "translation": ""
+    },
+    "payment_guideline_2": {
+        "translation": ""
+    },
+    "payment_guideline_3": {
+        "translation": ""
+    },
+    "close_window": {
+        "translation": ""
+    },
+    "return_to_dashboard": {
+        "translation": ""
+    },
+    "membership_joining_fee": {
+        "translation": ""
+    },
+    "membership_joining_fee_value": {
+        "translation": ""
+    },
+    "joining_fee_title": {
+        "translation": ""
+    },
+    "joining_star_content": {
+        "translation": ""
+    },
+    "joining_calendar_content": {
+        "translation": ""
+    },
+    "joining_contact_content": {
+        "translation": ""
+    },
+    "order_summary": {
+        "translation": ""
+    },
+    "term_and_condition_title": {
+        "translation": ""
+    },
+    "please_read_term_condition": {
+        "translation": ""
+    },
+    "accept_term_condition": {
+        "translation": ""
+    },
+    "pay_now": {
+        "translation": ""
+    },
+    "payment_validate_checkbox": {
+        "translation": ""
+    },
+    "home_page_incomplete_title": {
+        "translation": ""
+    },
+    "home_page_incomplete_description": {
+        "translation": ""
+    },
+    "input_billing_address_line1": {
+        "translation": ""
+    },
+    "input_billing_address_line2": {
+        "translation": ""
+    },
+    "input_billing_city": {
+        "translation": ""
+    },
+    "input_billing_country": {
+        "translation": ""
+    },
+    "action_enter_billing_address_manually": {
+        "translation": ""
+    },
+    "not_receive_email": {
+        "translation": ""
+    },
+    "check_that_email": {
+        "translation": ""
+    },
+    "resend_email": {
+        "translation": ""
+    },
+    "what_to_change_payment_method": {
+        "translation": ""
+    },
+    "change_payment_method_guideline": {
+        "translation": ""
+    },
+    "change_payment_method_title": {
+        "translation": ""
+    },
+    "pay_via_bank_transfer": {
+        "translation": ""
+    },
+    "just_send_email": {
+        "translation": ""
+    },
+    "select_an_option": {
+        "translation": ""
+    },
+    "delivery_date": {
+        "translation": ""
+    },
+    "payment_check_page_step": {
+        "translation": ""
+    },
+    "first_name_placeholder": {
+        "translation": ""
+    },
+    "last_name_placeholder": {
+        "translation": ""
+    },
+    "middle_name_placeholder": {
+        "translation": ""
+    },
+    "salutation": {
+        "translation": ""
+    },
+    "payment_method_select_title": {
+        "translation": ""
+    },
+    "payment_method_select_subtitle": {
+        "translation": ""
+    },
+    "payment_method_by_card": {
+        "translation": ""
+    },
+    "error_duplicated_home_address": {
+        "translation": ""
+    },
+    "error_duplicated_insured_address": {
+        "translation": ""
+    },
+    "input_billing_postcode": {
+        "translation": ""
+    },
+    "page_could_not_be_found": {
+        "translation": ""
+    },
+    "find_billing_address": {
+        "translation": ""
+    },
+    "error_duplicated_addresses": {
+        "translation": ""
+    },
+    "payment_error_authentication_required_description": {
+        "translation": ""
+    },
+    "payment_error_authentication_required_next_step": {
+        "translation": ""
+    },
+    "payment_error_approve_with_id_description": {
+        "translation": ""
+    },
+    "payment_error_approve_with_id_next_step": {
+        "translation": ""
+    },
+    "payment_error_call_issuer_description": {
+        "translation": ""
+    },
+    "payment_error_call_issuer_next_step": {
+        "translation": ""
+    },
+    "payment_error_card_not_supported_description": {
+        "translation": ""
+    },
+    "payment_error_card_not_supported_next_step": {
+        "translation": ""
+    },
+    "payment_error_card_velocity_exceeded_description": {
+        "translation": ""
+    },
+    "payment_error_card_velocity_exceeded_next_step": {
+        "translation": ""
+    },
+    "payment_error_currency_not_supported_description": {
+        "translation": ""
+    },
+    "payment_error_currency_not_supported_next_step": {
+        "translation": ""
+    },
+    "payment_error_do_not_honor_description": {
+        "translation": ""
+    },
+    "payment_error_do_not_honor_next_step": {
+        "translation": ""
+    },
+    "payment_error_do_not_try_again_description": {
+        "translation": ""
+    },
+    "payment_error_do_not_try_again_next_step": {
+        "translation": ""
+    },
+    "payment_error_duplicate_transaction_description": {
+        "translation": ""
+    },
+    "payment_error_duplicate_transaction_next_step": {
+        "translation": ""
+    },
+    "payment_error_expired_card_description": {
+        "translation": ""
+    },
+    "payment_error_expired_card_next_step": {
+        "translation": ""
+    },
+    "payment_error_fraudulent_description": {
+        "translation": ""
+    },
+    "payment_error_fraudulent_next_step": {
+        "translation": ""
+    },
+    "payment_error_generic_decline_description": {
+        "translation": ""
+    },
+    "payment_error_generic_decline_next_step": {
+        "translation": ""
+    },
+    "payment_error_incorrect_number_description": {
+        "translation": ""
+    },
+    "payment_error_incorrect_number_next_step": {
+        "translation": ""
+    },
+    "payment_error_incorrect_cvc_description": {
+        "translation": ""
+    },
+    "payment_error_incorrect_cvc_next_step": {
+        "translation": ""
+    },
+    "payment_error_incorrect_pin_description": {
+        "translation": ""
+    },
+    "payment_error_incorrect_pin_next_step": {
+        "translation": ""
+    },
+    "payment_error_incorrect_zip_description": {
+        "translation": ""
+    },
+    "payment_error_incorrect_zip_next_step": {
+        "translation": ""
+    },
+    "payment_error_insufficient_funds_description": {
+        "translation": ""
+    },
+    "payment_error_insufficient_funds_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_account_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_account_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_amount_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_amount_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_cvc_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_cvc_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_expiry_month_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_expiry_month_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_expiry_year_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_expiry_year_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_number_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_number_next_step": {
+        "translation": ""
+    },
+    "payment_error_invalid_pin_description": {
+        "translation": ""
+    },
+    "payment_error_invalid_pin_next_step": {
+        "translation": ""
+    },
+    "payment_error_issuer_not_available_description": {
+        "translation": ""
+    },
+    "payment_error_issuer_not_available_next_step": {
+        "translation": ""
+    },
+    "payment_error_lost_card_description": {
+        "translation": ""
+    },
+    "payment_error_lost_card_next_step": {
+        "translation": ""
+    },
+    "payment_error_merchant_blacklist_description": {
+        "translation": ""
+    },
+    "payment_error_merchant_blacklist_next_step": {
+        "translation": ""
+    },
+    "payment_error_new_account_information_available_description": {
+        "translation": ""
+    },
+    "payment_error_new_account_information_available_next_step": {
+        "translation": ""
+    },
+    "payment_error_no_action_taken_description": {
+        "translation": ""
+    },
+    "payment_error_no_action_taken_next_step": {
+        "translation": ""
+    },
+    "payment_error_not_permitted_description": {
+        "translation": ""
+    },
+    "payment_error_not_permitted_next_step": {
+        "translation": ""
+    },
+    "payment_error_offline_pin_required_description": {
+        "translation": ""
+    },
+    "payment_error_offline_pin_required_next_step": {
+        "translation": ""
+    },
+    "payment_error_online_or_offline_pin_required_description": {
+        "translation": ""
+    },
+    "payment_error_online_or_offline_pin_required_next_step": {
+        "translation": ""
+    },
+    "payment_error_pickup_card_description": {
+        "translation": ""
+    },
+    "payment_error_pickup_card_next_step": {
+        "translation": ""
+    },
+    "payment_error_pin_try_exceeded_description": {
+        "translation": ""
+    },
+    "payment_error_pin_try_exceeded_next_step": {
+        "translation": ""
+    },
+    "payment_error_processing_error_description": {
+        "translation": ""
+    },
+    "payment_error_processing_error_next_step": {
+        "translation": ""
+    },
+    "payment_error_reenter_transaction_description": {
+        "translation": ""
+    },
+    "payment_error_reenter_transaction_next_step": {
+        "translation": ""
+    },
+    "payment_error_restricted_card_description": {
+        "translation": ""
+    },
+    "payment_error_restricted_card_next_step": {
+        "translation": ""
+    },
+    "payment_error_revocation_of_all_authorizations_description": {
+        "translation": ""
+    },
+    "payment_error_revocation_of_all_authorizations_next_step": {
+        "translation": ""
+    },
+    "payment_error_revocation_of_authorization_description": {
+        "translation": ""
+    },
+    "payment_error_revocation_of_authorization_next_step": {
+        "translation": ""
+    },
+    "payment_error_security_violation_description": {
+        "translation": ""
+    },
+    "payment_error_security_violation_next_step": {
+        "translation": ""
+    },
+    "payment_error_service_not_allowed_description": {
+        "translation": ""
+    },
+    "payment_error_service_not_allowed_next_step": {
+        "translation": ""
+    },
+    "payment_error_stolen_card_description": {
+        "translation": ""
+    },
+    "payment_error_stolen_card_next_step": {
+        "translation": ""
+    },
+    "payment_error_stop_payment_order_description": {
+        "translation": ""
+    },
+    "payment_error_stop_payment_order_next_step": {
+        "translation": ""
+    },
+    "payment_error_testmode_decline_description": {
+        "translation": ""
+    },
+    "payment_error_testmode_decline_next_step": {
+        "translation": ""
+    },
+    "payment_error_transaction_not_allowed_description": {
+        "translation": ""
+    },
+    "payment_error_transaction_not_allowed_next_step": {
+        "translation": ""
+    },
+    "payment_error_try_again_later_description": {
+        "translation": ""
+    },
+    "payment_error_try_again_later_next_step": {
+        "translation": ""
+    },
+    "payment_error_withdrawal_count_limit_exceeded_description": {
+        "translation": ""
+    },
+    "payment_error_withdrawal_count_limit_exceeded_next_step": {
+        "translation": ""
+    },
+    "payment_error_other_description": {
+        "translation": ""
+    },
+    "payment_error_other_next_step": {
+        "translation": ""
+    },
+    "common_error_message": {
+        "translation": ""
+    },
+    "common_error_title": {
+        "translation": ""
+    },
+    "common_error_navigation": {
+        "translation": ""
+    },
+    "please_wait_prepare_payment": {
+        "translation": ""
+    },
+    "generic_page_title": {
+        "translation": ""
+    },
+    "generic_problem_content": {
+        "translation": ""
+    },
+    "generic_click_here": {
+        "translation": ""
+    },
+    "click": {
+        "translation": ""
+    },
+    "here": {
+        "translation": ""
+    },
+    "please_wait_payment": {
+        "translation": ""
+    },
+    "kyc_step_footer_passed": {
+        "translation": ""
+    },
+    "kyc_step_footer_failed": {
+        "translation": ""
+    },
+    "kyc_step_failed_popup_content": {
+        "translation": ""
+    },
+    "kyc_step_popup_footer": {
+        "translation": ""
+    },
+    "500_error": {
+        "translation": ""
+    }
 }
