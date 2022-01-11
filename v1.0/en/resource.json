@@ -1,956 +1,320 @@
 {
-    "personal_details_page_title": {
-        "translation": "PERSONAL DETAILS"
-    },
-    "personal_details_page_step": {
-        "translation": "YOU ARE IN STEP 1 OF 6"
-    },
-    "personal_details_brief_des1": {
-        "translation": "Please complete all the fields below. We have pre-populated information wherever possible."
-    },
-    "personal_details_brief_des2": {
-        "translation": "Fields marked with * are mandatory."
-    },
-    "personal_details_warning_message1": {
-        "translation": "Error. Please complete all fields marked with * before submitting this form."
-    },
-    "personal_details_step_2": {
-        "translation": "YOUR HOME ADDRESS"
-    },
-    "personal_details_step_3": {
-        "translation": "CREATE AN ACCOUNT WITH PIVOTAL"
-    },
-    "personal_details_subscription": {
-        "translation": "We use the following information to assess your eligibility for your subscription application.  Please select the tier you are applying for.  We will try to allocate a vehicle as close to your preferences as possible, but we cannot guarantee that we can fulfil your choices."
-    },
-    "personal_details_checkbox1": {
-        "translation": "I understand that Pivotal (InMotion Ventures 3 Limited) will share my personal information with HooYu Ltd and Equifax Ltd for the purposes of carrying out identity and affordability checks, respectively, and I give permission for my personal information to be processed accordingly."
-    },
-    "terms_and_conditions_brief_agreement1": {
-        "translation": "I am the person referred to in section 2 of the summary above. I understand the company in section 1 will ask the DVLA for my driver record information via the use of the intermediary , as and when they require, for the purpose to confirm legal entitlement to drive in compliance with duty of care and legislative requirements."
-    },
-    "terms_and_conditions_brief_agreement2": {
-        "translation": "I understand the DVLA will disclose to DAVIS Demo Company via Licence Check Ltd, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided."
-    },
-    "terms_and_conditions_brief_agreement3": {
-        "translation": "This declaration will expire when I cease driving in connection with DAVIS Demo Company or in any case three years from the date of approval. Approval can be withdrawn at any time by pressing the Opt Out button on this page."
-    },
-    "terms_and_conditions_confirmation_checkbox2": {
-        "translation": "I accept the "
-    },
-    "terms_and_conditions_warning": {
-        "translation": "You must understand and agree with the"
-    },
-    "terms_and_conditions_policy": {
-        "translation": "Privacy Policy"
-    },
-    "terms_and_conditions_page_step": {
-        "translation": "YOU ARE IN STEP 5 OF 6"
-    },
-    "terms_and_conditions_note": {
-        "translation": "A copy of the terms and conditions will be sent to your email address for your future reference."
-    },
-    "phone_number_verification_title": {
-        "translation": "PLEASE VERIFY YOUR NUMBER"
-    },
-    "phone_number_verification_des": {
-        "translation": "We sent a 6 digit verification code to your phone number ***{0}, please enter the code below."
-    },
-    "phone_number_verification_error": {
-        "translation": "Incorrect code. Please try again."
-    },
-    "phone_number_verification_resend_title": {
-        "translation": "RE-SEND VERIFICATION CODE"
-    },
-    "home_page_title": {
-        "translation": "WELCOME"
-    },
-    "home_page_done_message": {
-        "translation": "Congratulations, you've passed our eligibility checks. A Pivotal expert will be in touch to discuss your vehicle and to finalise payment details. In the meantime, if you have any questions, please do get in touch."
-    },
-    "home_page_what": {
-        "translation": "WHAT DO WE NEED FROM YOU?"
-    },
-    "home_page_text1": {
-        "translation": "You will need to complete Terms & Conditions last."
-    },
-    "home_page_introduction_message": {
-        "translation": "We ask that you complete the sections below so that we have your most up-to-date information. This should take no more than 10 minutes - and don’t worry, you can return to this page anytime by using the link in the email we sent you."
-    },
-    "home_page_description": {
-        "translation": "We know that you have shared your details with us before but we ask all Pivotal members to reconfirm their information regularly. Simply make your way through the sections below to verify your identity, share your recent driving history and complete an affordability assessment via Open Banking (don’t worry, this doesn’t affect your credit score)."
-    },
-    "insurance_claims_check_page_step": {
-        "translation": "YOU ARE IN STEP 2 OF 6"
-    },
-    "insurance_claims_check_note": {
-        "translation": "Acceptable documents up to 3mb in size. Only JPEG, PNG or PDF."
-    },
-    "insurance_claims_warning_message1": {
-        "translation": "Error. Please complete all questions and confirmation before submitting this form."
-    },
-    "error_title": {
-        "translation": "Error"
-    },
-    "error_common": {
-        "translation": "An error occurs while processing data, please try again"
-    },
-    "action_enter_address_manually": {
-        "translation": "ENTER ADDRESS MANUALLY"
-    },
-    "input_first_name": {
-        "translation": "First name"
-    },
-    "input_middle_name": {
-        "translation": "Middle name"
-    },
-    "input_last_name": {
-        "translation": "Last name"
-    },
-    "input_phone_number": {
-        "translation": "Phone number"
-    },
-    "input_email_address": {
-        "translation": "Email address"
-    },
-    "input_postcode": {
-        "translation": "Postcode"
-    },
-    "input_password": {
-        "translation": "Password"
-    },
-    "input_address_line1": {
-        "translation": "Address line 1"
-    },
-    "input_address_line2": {
-        "translation": "Address line 2"
-    },
-    "input_city": {
-        "translation": "City"
-    },
-    "input_country": {
-        "translation": "Country"
-    },
-    "input_salutation": {
-        "translation": "Salutation"
-    },
-    "input_preferred_model": {
-        "translation": "Preferred model(s)"
-    },
-    "input_colour_preference": {
-        "translation": "Preferred colour(s)"
-    },
-    "input_preferred_fuel_type": {
-        "translation": "Preferred fuel type"
-    },
-    "input_preferred_delivery_date": {
-        "translation": "Preferred delivery date"
-    },
-    "input_preferred_tier": {
-        "translation": "Preferred tier"
-    },
-    "button_submit_info": {
-        "translation": "SUBMIT"
-    },
-    "validation_password_min_char": {
-        "translation": "Must be at least {{length}} characters"
-    },
-    "validation_password_include_symbol": {
-        "translation": "Must include a symbol"
-    },
-    "validation_required": {
-        "translation": "{{field}} is required"
-    },
-    "validation_invalid": {
-        "translation": "{{field}} is invalid"
-    },
-    "validation_no_addresses_found": {
-        "translation": "No addresses found for {{postcode}}"
-    },
-    "footer_help_title": {
-        "translation": "NEED SOME HELP?"
-    },
-    "footer_help_button_checkout_our_faq": {
-        "translation": "CHECK OUT OUR FAQs"
-    },
-    "footer_help_time1": {
-        "translation": "Mon - Thurs : 9:00 - 18:00"
-    },
-    "footer_help_time2": {
-        "translation": "Fri : 9:00 - 17:00"
-    },
-    "footer_help_time3": {
-        "translation": "Sat - Sun : Closed"
-    },
-    "personal_subscription": {
-        "translation": "PERSONAL SUBSCRIPTION"
-    },
-    "business_subscription": {
-        "translation": "BUSINESS SUBSCRIPTION"
-    },
-    "sustainable_future": {
-        "translation": "SUSTAINABLE FUTURE"
-    },
-    "start_a_subscription": {
-        "translation": "START A SUBSCRIPTION"
-    },
-    "tiers": {
-        "translation": "Tiers"
-    },
-    "tiers_blue": {
-        "translation": "BLUE"
-    },
-    "tiers_indigo": {
-        "translation": "INDIGO"
-    },
-    "tiers_violet": {
-        "translation": "VIOLET"
-    },
-    "tiers_ultraviolet": {
-        "translation": "ULTRAVIOLET"
-    },
-    "tiers_business": {
-        "translation": "BUSINESS"
-    },
-    "about_pivotal": {
-        "translation": "About Pivotal"
-    },
-    "about_pivotal_faqs": {
-        "translation": "FAQS"
-    },
-    "about_pivotal_blog": {
-        "translation": "BLOG"
-    },
-    "about_pivotal_sustainable_future": {
-        "translation": "SUSTAINABLE FUTURE"
-    },
-    "legal": {
-        "translation": "Legal"
-    },
-    "legal_complaints": {
-        "translation": "COMPLAINTS"
-    },
-    "terms_and_conditions": {
-        "translation": "Terms & Conditions"
-    },
-    "copy_right": {
-        "translation": "Copyright © 2021 InMotion Ventures 3 Ltd"
-    },
-    "pivotal_des": {
-        "translation": "InMotion Ventures 3 Limited t\/a Pivotal is authorised and regulated by the Financial Conduct Authority for entering into regulated consumer hire agreements under firm reference number 806251. InMotion Ventures 3 Limited is registered in England and Wales company number 10445040. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Verex Insurance Services Ltd who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 487185."
-    },
-    "privacy_policy": {
-        "translation": "Privacy Policy"
-    },
-    "and": {
-        "translation": "and"
-    },
-    "close": {
-        "translation": "Close"
-    },
-    "personal_details": {
-        "translation": "Your Details"
-    },
-    "identity_and_licence_check": {
-        "translation": "Identity and Licence"
-    },
-    "affordability_check": {
-        "translation": "Affordability"
-    },
-    "insurance_claims_check": {
-        "translation": "Insurance Requirements"
-    },
-    "payment": {
-        "translation": "Payment"
-    },
-    "status": {
-        "translation": "Status"
-    },
-    "status_to_be_completed": {
-        "translation": "To be completed"
-    },
-    "status_in_progress": {
-        "translation": "In-Progress"
-    },
-    "status_completed": {
-        "translation": "Completed"
-    },
-    "outcome": {
-        "translation": "Outcome"
-    },
-    "outcome_pass": {
-        "translation": "Passed"
-    },
-    "outcome_fail": {
-        "translation": "Failed"
-    },
-    "outcome_investigate": {
-        "translation": "We need more information"
-    },
-    "your_progress": {
-        "translation": "Your progress"
-    },
-    "complete": {
-        "translation": "Complete"
-    },
-    "contact_us": {
-        "translation": "Contact Us"
-    },
-    "all_done": {
-        "translation": "SUCCESS!"
-    },
-    "date_format": {
-        "translation": "en-UK"
-    },
-    "your_name": {
-        "translation": "Your name"
-    },
-    "your_contact_information": {
-        "translation": "Your contact information"
-    },
-    "your_subscription_preferences": {
-        "translation": "Your Subscription Application"
-    },
-    "find_address": {
-        "translation": "Find Address"
-    },
-    "finish_later": {
-        "translation": "FINISH LATER"
-    },
-    "required_to_answer": {
-        "translation": "Required to answer"
-    },
-    "add_claim": {
-        "translation": "Add Claim"
-    },
-    "add_more_claim": {
-        "translation": "Add Another Claim"
-    },
-    "cancel": {
-        "translation": "Cancel"
-    },
-    "delete": {
-        "translation": "Delete"
-    },
-    "ok": {
-        "translation": "Ok"
-    },
-    "are_your_sure": {
-        "translation": "Are you sure?"
-    },
-    "click_to_upload_your_document": {
-        "translation": "Upload No Claims Bonus Evidence"
-    },
-    "document_uploaded": {
-        "translation": "DOCUMENT UPLOADED"
-    },
-    "click_to_add_another_file": {
-        "translation": "Click to add another file"
-    },
-    "upload_succeeded": {
-        "translation": "File uploaded successfully"
-    },
-    "upload_failed": {
-        "translation": "Failed to upload the file. Remove and try again."
-    },
-    "not_supported": {
-        "translation": "Not supported"
-    },
-    "phone_number": {
-        "translation": "442039504833"
-    },
-    "phone_number_text": {
-        "translation": "+44 (0) 20 3950 4833"
-    },
-    "registered_office": {
-        "translation": "Registered office"
-    },
-    "email": {
-        "translation": "contact@drivepivotal.com"
-    },
-    "insurance_requirements": {
-        "translation": "Insurance Requirements"
-    },
-    "claims_history": {
-        "translation": "Claims History"
-    },
-    "sur_name": {
-        "translation": "Surname"
-    },
-    "date_of_birth": {
-        "translation": "Date of Birth"
-    },
-    "company_details_title": {
-        "translation": "Company Details"
-    },
-    "licence_check_step": {
-        "translation": "YOU ARE IN STEP 4 OF 6"
-    },
-    "your_licence": {
-        "translation": "YOUR LICENCE"
-    },
-    "driving_licence_number": {
-        "translation": "Driving Licence Number"
-    },
-    "requesting_company": {
-        "translation": "Requesting company: InMotion Ventures 3 Ltd (Trading as PIVOTAL)"
-    },
-    "reason_for_processing_title": {
-        "translation": "Reason For Processing"
-    },
-    "confirm_legal": {
-        "translation": "To confirm legal entitlement to drive in compliance with the duty of care and legislative requirements"
-    },
-    "licence_personal_details_title": {
-        "translation": "Personal Details"
-    },
-    "pending_conviction_title": {
-        "translation": "Pending Conviction"
-    },
-    "pending_conviction_question": {
-        "translation": "Do you have any pending driving conviction?"
-    },
-    "pending_conviction_details_title": {
-        "translation": "Pending Conviction Details"
-    },
-    "declaration_title": {
-        "translation": "Declaration"
-    },
-    "declaration_content": {
-        "translation": "I am the person referred to in Section 3. I understand the companies listed in Section 1 will ask DVLA for my driver record information, as and when they require, for the purpose set out Section 2."
-    },
-    "declaration_content_middle": {
-        "translation": "I understand DVLA will disclose to all companies listed in Section 1, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided."
-    },
-    "declaration_content_last": {
-        "translation": "This declaration will expire when I cease driving in connection with the company or in any case, three years from the date of my signature."
-    },
-    "i": {
-        "translation": "I"
-    },
-    "confirm_that": {
-        "translation": "I confirm that I have read the declaration and give permission for my driving licence to be checked against the DVLA"
-    },
-    "identity_check": {
-        "translation": "Identity"
-    },
-    "licence_check": {
-        "translation": "Licence"
-    },
-    "intermediary": {
-        "translation": "Intermediary: Licence Check Ltd"
-    },
-    "less_than_1000_characters": {
-        "translation": "Please enter not more than 1000 characters"
-    },
-    "max_file_detect": {
-        "translation": "You have reached the maximum file limit. Please review the files you have uploaded and remove as required. Alternative please contact Customer Services."
-    },
-    "upload_guideline": {
-        "translation": "Please upload documentation to evidence your no claims bonus. This should be your most recent renewal notice or evidence of your last cancelled lapsed policy dated within the last 12 months. Please note a copy of your certificate or schedule is not sufficient proof."
-    },
-    "pending_conviction_select_required": {
-        "translation": "Please select yes or no"
-    },
-    "no_claims_bonus_evidence": {
-        "translation": "NO CLAIMS BONUS EVIDENCE"
-    },
-    "consent_content": {
-        "translation": "\n Pivotal, (InMotion Ventures 3 Limited) will collect your personal information for the purposes of verifying your identity and affordability status, to enable the parties to enter into an agreement for the provision of services.<br \/>Pivotal will share your personal details with the following companies, to carry out the identity and affordability verification checks:<br\/><ul><li>Hooyu Ltd<\/li><li>Equifax Ltd<\/li><\/ul>Pivotal will process your personal information on the following lawful bases:\n<ul><li><b>Contract:<\/b> the processing is necessary before entering into a contract for the provision of Pivotal’s services.<\/li><li><b>Legal obligation:<\/b> the processing is necessary to ensure each parties’ compliance with the law.<\/li><li><b>Consent:<\/b> you have given clear consent for Pivotal to process your personal data for the purposes of carrying out identity and affordability checks.<\/li>\n<\/ul>"
-    },
-    "consent": {
-        "translation": "Consent"
-    },
-    "agree_personal_details": {
-        "translation": "In order to proceed, you must read and agree with the consent statement."
-    },
-    "next_to_payment": {
-        "translation": "PAYMENT"
-    },
-    "payment_complete": {
-        "translation": "Payment complete"
-    },
-    "welcome_driving": {
-        "translation": "Welcome to driving freedom!"
-    },
-    "great_news": {
-        "translation": "Great news - we've received your joining fee and your Pivotal membership starts now!"
-    },
-    "payment_guideline_1": {
-        "translation": "As our newest Pivotal member, you have joined the waiting list for your selected membership tier. Our team will be in touch as soon as a vehicle is ready for you."
-    },
-    "payment_guideline_2": {
-        "translation": "In the meantime, we have sent you an email with more information about your membership and what to expect next."
-    },
-    "payment_guideline_3": {
-        "translation": "If you have any questions, don't hesitate to <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/contact-us\/' target='_blank'>contact us<\/a>."
-    },
-    "close_window": {
-        "translation": "You can now close this window or return to the dashboard"
-    },
-    "return_to_dashboard": {
-        "translation": "RETURN TO DASHBOARD"
-    },
-    "membership_joining_fee": {
-        "translation": "Pivotal membership joining fee"
-    },
-    "membership_joining_fee_value": {
-        "translation": "£{{amount}}"
-    },
-    "joining_fee_title": {
-        "translation": "As soon as we receive your one-off joining fee..."
-    },
-    "joining_star_content": {
-        "translation": "Your Pivotal membership begins and you'll receive access to a growing list of exclusive benefits."
-    },
-    "joining_calendar_content": {
-        "translation": "You'll join the wait list for your selected membership tier."
-    },
-    "joining_contact_content": {
-        "translation": "The Pivotal team will be in touch directly as soon as your vehicle is ready."
-    },
-    "order_summary": {
-        "translation": "ORDER SUMMARY"
-    },
-    "term_and_condition_title": {
-        "translation": "TERMS AND CONDITIONS"
-    },
-    "please_read_term_condition": {
-        "translation": "Please read our <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/terms-conditions\/' target='_blank'>Terms and Conditions<\/a> and check the box below to accept"
-    },
-    "accept_term_condition": {
-        "translation": "I accept Pivotal's Terms and Conditions"
-    },
-    "pay_now": {
-        "translation": "PAY NOW"
-    },
-    "payment_validate_checkbox": {
-        "translation": "You must accept the Terms and Conditions before proceeding with the checkout"
-    },
-    "home_page_incomplete_title": {
-        "translation": "WELCOME BACK"
-    },
-    "home_page_incomplete_description": {
-        "translation": "Based on the information you provided, we just need you to reconfirm some details before we can progress your application. Please revisit the relevant section(s) below and follow the steps to share your accurate and up-to-date information. You can return to this page anytime by using the link in the email we sent you."
-    },
-    "input_billing_address_line1": {
-        "translation": "Billing address line 1"
-    },
-    "input_billing_address_line2": {
-        "translation": "Billing address line 2"
-    },
-    "input_billing_city": {
-        "translation": "Billing city"
-    },
-    "input_billing_country": {
-        "translation": "Billing country"
-    },
-    "action_enter_billing_address_manually": {
-        "translation": "ENTER BILLING ADDRESS MANUALLY"
-    },
-    "not_receive_email": {
-        "translation": "Not received an email?"
-    },
-    "check_that_email": {
-        "translation": "Please check that the email has not gone into your spam \/ junk folder. <br \/> If you are still having trouble receiving the details, please contact us using the help bar below."
-    },
-    "resend_email": {
-        "translation": "<a style='text-decoration: underline; font-weight: bold;'>Re-send me the email<\/a>"
-    },
-    "what_to_change_payment_method": {
-        "translation": "WANT TO CHANGE YOUR PAYMENT METHOD?"
-    },
-    "change_payment_method_guideline": {
-        "translation": "If you would prefer to pay by card instead, click the button below to return to the <br \/> summary page and select ‘Pay by card’ and disregard the email to pay via bank transfer."
-    },
-    "change_payment_method_title": {
-        "translation": "CHANGE PAYMENT METHOD"
-    },
-    "pay_via_bank_transfer": {
-        "translation": "Pay via bank transfer"
-    },
-    "just_send_email": {
-        "translation": "We’ve just sent you an email containing our bank transfer information, please check your inbox for a message from finance@drive.pivotal.com"
-    },
-    "select_an_option": {
-        "translation": "Select an option"
-    },
-    "delivery_date": {
-        "translation": "Delivery date *"
-    },
-    "payment_check_page_step": {
-        "translation": "YOU ARE IN STEP 6 OF 6"
-    },
-    "first_name_placeholder": {
-        "translation": "First Name *"
-    },
-    "last_name_placeholder": {
-        "translation": "Last Name *"
-    },
-    "middle_name_placeholder": {
-        "translation": "Middle Name"
-    },
-    "salutation": {
-        "translation": "Salutation *"
-    },
-    "payment_method_select_title": {
-        "translation": "HOW WOULD YOU LIKE TO PAY?"
-    },
-    "payment_method_select_subtitle": {
-        "translation": "Your payment options are:"
-    },
-    "payment_method_by_card": {
-        "translation": "Pay by card"
-    },
-    "error_duplicated_home_address": {
-        "translation": "The address you've entered matches your home address. Either enter a different address or review your response to the question above."
-    },
-    "error_duplicated_insured_address": {
-        "translation": "The address you've entered matches your insured address. Either enter a different address or review your response to the question above."
-    },
-    "input_billing_postcode": {
-        "translation": "Billing Postcode"
-    },
-    "page_could_not_be_found": {
-        "translation": "This page could not be found."
-    },
-    "find_billing_address": {
-        "translation": "Find Billing Address"
-    },
-    "error_duplicated_addresses": {
-        "translation": "The addresses you've entered are the same. Either enter a different address or review your response to the question above."
-    },
-    "payment_error_authentication_required_description": {
-        "translation": "We were unable to authorise your card payment."
-    },
-    "payment_error_authentication_required_next_step": {
-        "translation": "Please retry. If the issue persists, please contact your card issuer."
-    },
-    "payment_error_approve_with_id_description": {
-        "translation": "We were unable to authorise your card payment."
-    },
-    "payment_error_approve_with_id_next_step": {
-        "translation": "Please retry. If the issue persists, please contact your card issuer."
-    },
-    "payment_error_call_issuer_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_call_issuer_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_card_not_supported_description": {
-        "translation": "The payment does not support this type of purchase."
-    },
-    "payment_error_card_not_supported_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_card_velocity_exceeded_description": {
-        "translation": "You have exceeded the balance or credit limit available on your card."
-    },
-    "payment_error_card_velocity_exceeded_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_currency_not_supported_description": {
-        "translation": "Your card does not support the specified currency."
-    },
-    "payment_error_currency_not_supported_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_do_not_honor_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_do_not_honor_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_do_not_try_again_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_do_not_try_again_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_duplicate_transaction_description": {
-        "translation": "You have attempted to resubmit a payment that is already complete."
-    },
-    "payment_error_duplicate_transaction_next_step": {
-        "translation": "We will not process the payment again or take any funds."
-    },
-    "payment_error_expired_card_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_expired_card_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_fraudulent_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_fraudulent_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_generic_decline_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_generic_decline_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_incorrect_number_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_incorrect_number_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_incorrect_cvc_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_incorrect_cvc_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_incorrect_pin_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_incorrect_pin_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_incorrect_zip_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_incorrect_zip_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_insufficient_funds_description": {
-        "translation": "The card has insufficient funds to complete the payment."
-    },
-    "payment_error_insufficient_funds_next_step": {
-        "translation": "Please try another payment method."
-    },
-    "payment_error_invalid_account_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_invalid_account_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_invalid_amount_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_invalid_amount_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_invalid_cvc_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_invalid_cvc_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_invalid_expiry_month_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_invalid_expiry_month_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_invalid_expiry_year_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_invalid_expiry_year_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_invalid_number_description": {
-        "translation": "The card details you submitted were incorrect."
-    },
-    "payment_error_invalid_number_next_step": {
-        "translation": "Please retry the payment."
-    },
-    "payment_error_invalid_pin_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_invalid_pin_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_issuer_not_available_description": {
-        "translation": "We were unable to authorise your card payment."
-    },
-    "payment_error_issuer_not_available_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_lost_card_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_lost_card_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_merchant_blacklist_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_merchant_blacklist_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_new_account_information_available_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_new_account_information_available_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_no_action_taken_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_no_action_taken_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_not_permitted_description": {
-        "translation": "We were unable to authorise your card payment."
-    },
-    "payment_error_not_permitted_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_offline_pin_required_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_offline_pin_required_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_online_or_offline_pin_required_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_online_or_offline_pin_required_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_pickup_card_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_pickup_card_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_pin_try_exceeded_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_pin_try_exceeded_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_processing_error_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_processing_error_next_step": {
-        "translation": "Please retry. If the issue persists, please contact your card issuer."
-    },
-    "payment_error_reenter_transaction_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_reenter_transaction_next_step": {
-        "translation": "Please retry. If the issue persists, please contact your card issuer."
-    },
-    "payment_error_restricted_card_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_restricted_card_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_revocation_of_all_authorizations_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_revocation_of_all_authorizations_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_revocation_of_authorization_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_revocation_of_authorization_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_security_violation_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_security_violation_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_service_not_allowed_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_service_not_allowed_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_stolen_card_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_stolen_card_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_stop_payment_order_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_stop_payment_order_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_testmode_decline_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_testmode_decline_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_transaction_not_allowed_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_transaction_not_allowed_next_step": {
-        "translation": "Please try another payment method or contact your card issuer."
-    },
-    "payment_error_try_again_later_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_try_again_later_next_step": {
-        "translation": "Please retry. If the issue persists, please contact your card issuer."
-    },
-    "payment_error_withdrawal_count_limit_exceeded_description": {
-        "translation": "The card has insufficient funds to complete the payment."
-    },
-    "payment_error_withdrawal_count_limit_exceeded_next_step": {
-        "translation": "Please try another payment method."
-    },
-    "payment_error_other_description": {
-        "translation": "The payment has been declined for an unknown reason."
-    },
-    "payment_error_other_next_step": {
-        "translation": "Please retry. If the issue persists, please contact your card issuer."
-    },
-    "common_error_message": {
-        "translation": "<p>So that we can rectify the issue, please get in touch with Pivotal's support team using the contact options below. When you reach one of our team members, let them know which step of the onboarding process you got to.<\/p> <p> They will be able to pinpoint the problem and advise on next steps.<\/p>"
-    },
-    "common_error_title": {
-        "translation": "Oops. We seem to have run into a problem."
-    },
-    "common_error_navigation": {
-        "translation": "Click here to go back to the onboarding homepage."
-    },
-    "please_wait_prepare_payment": {
-        "translation": "Please wait while we prepare your payment. This should only take a few seconds."
-    },
-    "generic_page_title": {
-        "translation": "WE'VE RUN INTO A PROBLEM "
-    },
-    "generic_problem_content": {
-        "translation": "Oops. We seem to have run into a problem. Please try again and contact us if the issue persists."
-    },
-    "generic_click_here": {
-        "translation": " to go back to the onboarding homepage."
-    },
-    "click": {
-        "translation": "Click "
-    },
-    "here": {
-        "translation": "here"
-    },
-    "please_wait_payment": {
-        "translation": "Please wait while we process your payment. This should only take a few seconds. "
-    },
-    "kyc_step_footer_passed": {
-        "translation": "Please continue to the next step."
-    },
-    "kyc_step_footer_failed": {
-        "translation": "Please see our <a target=\"_blank\" href=\"https:\/\/www.drivepivotal.com\/faqs\/#faq-joining-5\">eligibility criteria<\/a> for more detail."
-    },
-    "kyc_step_failed_popup_content": {
-        "translation": "Unfortunately you have not met the eligibility criteria. Our Customer Services Team will further investigate this and be in contact with you shortly. For more information about our eligibility criteria, please see the frequently asked questions page on our website"
-    },
-    "kyc_step_popup_footer": {
-        "translation": "OUR CUSTOMER SERVICE TEAM WILL BE IN CONTACT"
-    },
-    "500_error": {
-        "translation": "The server has encountered a situation it does not know how to handle."
-    }
+    "personal_details_page_title": "PERSONAL DETAILS",
+    "personal_details_page_step": "YOU ARE IN STEP 1 OF 6",
+    "personal_details_brief_des1": "Please complete all the fields below. We have pre-populated information wherever possible.",
+    "personal_details_brief_des2": "Fields marked with * are mandatory.",
+    "personal_details_warning_message1": "Error. Please complete all fields marked with * before submitting this form.",
+    "personal_details_step_2": "YOUR HOME ADDRESS",
+    "personal_details_step_3": "CREATE AN ACCOUNT WITH PIVOTAL",
+    "personal_details_subscription": "We use the following information to assess your eligibility for your subscription application.  Please select the tier you are applying for.  We will try to allocate a vehicle as close to your preferences as possible, but we cannot guarantee that we can fulfil your choices.",
+    "personal_details_checkbox1": "I understand that Pivotal (InMotion Ventures 3 Limited) will share my personal information with HooYu Ltd and Equifax Ltd for the purposes of carrying out identity and affordability checks, respectively, and I give permission for my personal information to be processed accordingly.",
+    "terms_and_conditions_brief_agreement1": "I am the person referred to in section 2 of the summary above. I understand the company in section 1 will ask the DVLA for my driver record information via the use of the intermediary , as and when they require, for the purpose to confirm legal entitlement to drive in compliance with duty of care and legislative requirements.",
+    "terms_and_conditions_brief_agreement2": "I understand the DVLA will disclose to DAVIS Demo Company via Licence Check Ltd, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided.",
+    "terms_and_conditions_brief_agreement3": "This declaration will expire when I cease driving in connection with DAVIS Demo Company or in any case three years from the date of approval. Approval can be withdrawn at any time by pressing the Opt Out button on this page.",
+    "terms_and_conditions_confirmation_checkbox2": "I accept the ",
+    "terms_and_conditions_warning": "You must understand and agree with the",
+    "terms_and_conditions_policy": "Privacy Policy",
+    "terms_and_conditions_page_step": "YOU ARE IN STEP 5 OF 6",
+    "terms_and_conditions_note": "A copy of the terms and conditions will be sent to your email address for your future reference.",
+    "phone_number_verification_title": "PLEASE VERIFY YOUR NUMBER",
+    "phone_number_verification_des": "We sent a 6 digit verification code to your phone number ***{0}, please enter the code below.",
+    "phone_number_verification_error": "Incorrect code. Please try again.",
+    "phone_number_verification_resend_title": "RE-SEND VERIFICATION CODE",
+    "home_page_title": "WELCOME",
+    "home_page_done_message": "Congratulations, you've passed our eligibility checks. A Pivotal expert will be in touch to discuss your vehicle and to finalise payment details. In the meantime, if you have any questions, please do get in touch.",
+    "home_page_what": "WHAT DO WE NEED FROM YOU?",
+    "home_page_text1": "You will need to complete Terms & Conditions last.",
+    "home_page_introduction_message": "We ask that you complete the sections below so that we have your most up-to-date information. This should take no more than 10 minutes - and don’t worry, you can return to this page anytime by using the link in the email we sent you.",
+    "home_page_description": "We know that you have shared your details with us before but we ask all Pivotal members to reconfirm their information regularly. Simply make your way through the sections below to verify your identity, share your recent driving history and complete an affordability assessment via Open Banking (don’t worry, this doesn’t affect your credit score).",
+    "insurance_claims_check_page_step": "YOU ARE IN STEP 2 OF 6",
+    "insurance_claims_check_note": "Acceptable documents up to 3mb in size. Only JPEG, PNG or PDF.",
+    "insurance_claims_warning_message1": "Error. Please complete all questions and confirmation before submitting this form.",
+    "error_title": "Error",
+    "error_common": "An error occurs while processing data, please try again",
+    "action_enter_address_manually": "ENTER ADDRESS MANUALLY",
+    "input_first_name": "First name",
+    "input_middle_name": "Middle name",
+    "input_last_name": "Last name",
+    "input_phone_number": "Phone number",
+    "input_email_address": "Email address",
+    "input_postcode": "Postcode",
+    "input_password": "Password",
+    "input_address_line1": "Address line 1",
+    "input_address_line2": "Address line 2",
+    "input_city": "City",
+    "input_country": "Country",
+    "input_salutation": "Salutation",
+    "input_preferred_model": "Preferred model(s)",
+    "input_colour_preference": "Preferred colour(s)",
+    "input_preferred_fuel_type": "Preferred fuel type",
+    "input_preferred_delivery_date": "Preferred delivery date",
+    "input_preferred_tier": "Preferred tier",
+    "button_submit_info": "SUBMIT",
+    "validation_password_min_char": "Must be at least {{length}} characters",
+    "validation_password_include_symbol": "Must include a symbol",
+    "validation_required": "{{field}} is required",
+    "validation_invalid": "{{field}} is invalid",
+    "validation_no_addresses_found": "No addresses found for {{postcode}}",
+    "footer_help_title": "NEED SOME HELP?",
+    "footer_help_button_checkout_our_faq": "CHECK OUT OUR FAQs",
+    "footer_help_time1": "Mon - Thurs : 9:00 - 18:00",
+    "footer_help_time2": "Fri : 9:00 - 17:00",
+    "footer_help_time3": "Sat - Sun : Closed",
+    "personal_subscription": "PERSONAL SUBSCRIPTION",
+    "business_subscription": "BUSINESS SUBSCRIPTION",
+    "sustainable_future": "SUSTAINABLE FUTURE",
+    "start_a_subscription": "START A SUBSCRIPTION",
+    "tiers": "Tiers",
+    "tiers_blue": "BLUE",
+    "tiers_indigo": "INDIGO",
+    "tiers_violet": "VIOLET",
+    "tiers_ultraviolet": "ULTRAVIOLET",
+    "tiers_business": "BUSINESS",
+    "about_pivotal": "About Pivotal",
+    "about_pivotal_faqs": "FAQS",
+    "about_pivotal_blog": "BLOG",
+    "about_pivotal_sustainable_future": "SUSTAINABLE FUTURE",
+    "legal": "Legal",
+    "legal_complaints": "COMPLAINTS",
+    "terms_and_conditions": "Terms & Conditions",
+    "copy_right": "Copyright © 2021 InMotion Ventures 3 Ltd",
+    "pivotal_des": "InMotion Ventures 3 Limited t\/a Pivotal is authorised and regulated by the Financial Conduct Authority for entering into regulated consumer hire agreements under firm reference number 806251. InMotion Ventures 3 Limited is registered in England and Wales company number 10445040. Registered office at Abbey Road, Whitley, Coventry, England, CV3 4LF. Insurance distributed and administered by Verex Insurance Services Ltd who are authorised and regulated by the Financial Conduct Authority. Financial Services Register No. 487185.",
+    "privacy_policy": "Privacy Policy",
+    "and": "and",
+    "close": "Close",
+    "personal_details": "Your Details",
+    "identity_and_licence_check": "Identity and Licence",
+    "affordability_check": "Affordability",
+    "insurance_claims_check": "Insurance Requirements",
+    "payment": "Payment",
+    "status": "Status",
+    "status_to_be_completed": "To be completed",
+    "status_in_progress": "In-Progress",
+    "status_completed": "Completed",
+    "outcome": "Outcome",
+    "outcome_pass": "Passed",
+    "outcome_fail": "Failed",
+    "outcome_investigate": "We need more information",
+    "your_progress": "Your progress",
+    "complete": "Complete",
+    "contact_us": "Contact Us",
+    "all_done": "SUCCESS!",
+    "date_format": "en-UK",
+    "your_name": "Your name",
+    "your_contact_information": "Your contact information",
+    "your_subscription_preferences": "Your Subscription Application",
+    "find_address": "Find Address",
+    "finish_later": "FINISH LATER",
+    "required_to_answer": "Required to answer",
+    "add_claim": "Add Claim",
+    "add_more_claim": "Add Another Claim",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "ok": "Ok",
+    "are_your_sure": "Are you sure?",
+    "click_to_upload_your_document": "Upload No Claims Bonus Evidence",
+    "document_uploaded": "DOCUMENT UPLOADED",
+    "click_to_add_another_file": "Click to add another file",
+    "upload_succeeded": "File uploaded successfully",
+    "upload_failed": "Failed to upload the file. Remove and try again.",
+    "not_supported": "Not supported",
+    "phone_number": "442039504833",
+    "phone_number_text": "+44 (0) 20 3950 4833",
+    "registered_office": "Registered office",
+    "email": "contact@drivepivotal.com",
+    "insurance_requirements": "Insurance Requirements",
+    "claims_history": "Claims History",
+    "sur_name": "Surname",
+    "date_of_birth": "Date of Birth",
+    "company_details_title": "Company Details",
+    "licence_check_step": "YOU ARE IN STEP 4 OF 6",
+    "your_licence": "YOUR LICENCE",
+    "driving_licence_number": "Driving Licence Number",
+    "requesting_company": "Requesting company: InMotion Ventures 3 Ltd (Trading as PIVOTAL)",
+    "reason_for_processing_title": "Reason For Processing",
+    "confirm_legal": "To confirm legal entitlement to drive in compliance with the duty of care and legislative requirements",
+    "licence_personal_details_title": "Personal Details",
+    "pending_conviction_title": "Pending Conviction",
+    "pending_conviction_question": "Do you have any pending driving conviction?",
+    "pending_conviction_details_title": "Pending Conviction Details",
+    "declaration_title": "Declaration",
+    "declaration_content": "I am the person referred to in Section 3. I understand the companies listed in Section 1 will ask DVLA for my driver record information, as and when they require, for the purpose set out Section 2.",
+    "declaration_content_middle": "I understand DVLA will disclose to all companies listed in Section 1, all relevant information held in the computerised register of drivers maintained by DVLA. This includes personal details, driving entitlements, valid endorsements and disqualifications (if relevant), photo images, Certificate of Professional Competence (CPC) and Digital Tachograph Card details (where appropriate). Medical information will not be provided.",
+    "declaration_content_last": "This declaration will expire when I cease driving in connection with the company or in any case, three years from the date of my signature.",
+    "i": "I",
+    "confirm_that": "I confirm that I have read the declaration and give permission for my driving licence to be checked against the DVLA",
+    "identity_check": "Identity",
+    "licence_check": "Licence",
+    "intermediary": "Intermediary: Licence Check Ltd",
+    "less_than_1000_characters": "Please enter not more than 1000 characters",
+    "max_file_detect": "You have reached the maximum file limit. Please review the files you have uploaded and remove as required. Alternative please contact Customer Services.",
+    "upload_guideline": "Please upload documentation to evidence your no claims bonus. This should be your most recent renewal notice or evidence of your last cancelled lapsed policy dated within the last 12 months. Please note a copy of your certificate or schedule is not sufficient proof.",
+    "pending_conviction_select_required": "Please select yes or no",
+    "no_claims_bonus_evidence": "NO CLAIMS BONUS EVIDENCE",
+    "consent_content": "\n Pivotal, (InMotion Ventures 3 Limited) will collect your personal information for the purposes of verifying your identity and affordability status, to enable the parties to enter into an agreement for the provision of services.<br \/>Pivotal will share your personal details with the following companies, to carry out the identity and affordability verification checks:<br\/><ul><li>Hooyu Ltd<\/li><li>Equifax Ltd<\/li><\/ul>Pivotal will process your personal information on the following lawful bases:\n<ul><li><b>Contract:<\/b> the processing is necessary before entering into a contract for the provision of Pivotal’s services.<\/li><li><b>Legal obligation:<\/b> the processing is necessary to ensure each parties’ compliance with the law.<\/li><li><b>Consent:<\/b> you have given clear consent for Pivotal to process your personal data for the purposes of carrying out identity and affordability checks.<\/li>\n<\/ul>",
+    "consent": "Consent",
+    "agree_personal_details": "In order to proceed, you must read and agree with the consent statement.",
+    "next_to_payment": "PAYMENT",
+    "payment_complete": "Payment complete",
+    "welcome_driving": "Welcome to driving freedom!",
+    "great_news": "Great news - we've received your joining fee and your Pivotal membership starts now!",
+    "payment_guideline_1": "As our newest Pivotal member, you have joined the waiting list for your selected membership tier. Our team will be in touch as soon as a vehicle is ready for you.",
+    "payment_guideline_2": "In the meantime, we have sent you an email with more information about your membership and what to expect next.",
+    "payment_guideline_3": "If you have any questions, don't hesitate to <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/contact-us\/' target='_blank'>contact us<\/a>.",
+    "close_window": "You can now close this window or return to the dashboard",
+    "return_to_dashboard": "RETURN TO DASHBOARD",
+    "membership_joining_fee": "Pivotal membership joining fee",
+    "membership_joining_fee_value": "£{{amount}}",
+    "joining_fee_title": "As soon as we receive your one-off joining fee...",
+    "joining_star_content": "Your Pivotal membership begins and you'll receive access to a growing list of exclusive benefits.",
+    "joining_calendar_content": "You'll join the wait list for your selected membership tier.",
+    "joining_contact_content": "The Pivotal team will be in touch directly as soon as your vehicle is ready.",
+    "order_summary": "ORDER SUMMARY",
+    "term_and_condition_title": "TERMS AND CONDITIONS",
+    "please_read_term_condition": "Please read our <a style='text-decoration: underline; font-weight: bold;' href='https:\/\/www.drivepivotal.com\/terms-conditions\/' target='_blank'>Terms and Conditions<\/a> and check the box below to accept",
+    "accept_term_condition": "I accept Pivotal's Terms and Conditions",
+    "pay_now": "PAY NOW",
+    "payment_validate_checkbox": "You must accept the Terms and Conditions before proceeding with the checkout",
+    "home_page_incomplete_title": "WELCOME BACK",
+    "home_page_incomplete_description": "Based on the information you provided, we just need you to reconfirm some details before we can progress your application. Please revisit the relevant section(s) below and follow the steps to share your accurate and up-to-date information. You can return to this page anytime by using the link in the email we sent you.",
+    "input_billing_address_line1": "Billing address line 1",
+    "input_billing_address_line2": "Billing address line 2",
+    "input_billing_city": "Billing city",
+    "input_billing_country": "Billing country",
+    "action_enter_billing_address_manually": "ENTER BILLING ADDRESS MANUALLY",
+    "not_receive_email": "Not received an email?",
+    "check_that_email": "Please check that the email has not gone into your spam \/ junk folder. <br \/> If you are still having trouble receiving the details, please contact us using the help bar below.",
+    "resend_email": "<a style='text-decoration: underline; font-weight: bold;'>Re-send me the email<\/a>",
+    "what_to_change_payment_method": "WANT TO CHANGE YOUR PAYMENT METHOD?",
+    "change_payment_method_guideline": "If you would prefer to pay by card instead, click the button below to return to the <br \/> summary page and select ‘Pay by card’ and disregard the email to pay via bank transfer.",
+    "change_payment_method_title": "CHANGE PAYMENT METHOD",
+    "pay_via_bank_transfer": "Pay via bank transfer",
+    "just_send_email": "We’ve just sent you an email containing our bank transfer information, please check your inbox for a message from finance@drive.pivotal.com",
+    "select_an_option": "Select an option",
+    "delivery_date": "Delivery date *",
+    "payment_check_page_step": "YOU ARE IN STEP 6 OF 6",
+    "first_name_placeholder": "First Name *",
+    "last_name_placeholder": "Last Name *",
+    "middle_name_placeholder": "Middle Name",
+    "salutation": "Salutation *",
+    "payment_method_select_title": "HOW WOULD YOU LIKE TO PAY?",
+    "payment_method_select_subtitle": "Your payment options are:",
+    "payment_method_by_card": "Pay by card",
+    "error_duplicated_home_address": "The address you've entered matches your home address. Either enter a different address or review your response to the question above.",
+    "error_duplicated_insured_address": "The address you've entered matches your insured address. Either enter a different address or review your response to the question above.",
+    "input_billing_postcode": "Billing Postcode",
+    "page_could_not_be_found": "This page could not be found.",
+    "find_billing_address": "Find Billing Address",
+    "error_duplicated_addresses": "The addresses you've entered are the same. Either enter a different address or review your response to the question above.",
+    "payment_error_authentication_required_description": "We were unable to authorise your card payment.",
+    "payment_error_authentication_required_next_step": "Please retry. If the issue persists, please contact your card issuer.",
+    "payment_error_approve_with_id_description": "We were unable to authorise your card payment.",
+    "payment_error_approve_with_id_next_step": "Please retry. If the issue persists, please contact your card issuer.",
+    "payment_error_call_issuer_description": "The payment has been declined for an unknown reason.",
+    "payment_error_call_issuer_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_card_not_supported_description": "The payment does not support this type of purchase.",
+    "payment_error_card_not_supported_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_card_velocity_exceeded_description": "You have exceeded the balance or credit limit available on your card.",
+    "payment_error_card_velocity_exceeded_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_currency_not_supported_description": "Your card does not support the specified currency.",
+    "payment_error_currency_not_supported_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_do_not_honor_description": "The payment has been declined for an unknown reason.",
+    "payment_error_do_not_honor_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_do_not_try_again_description": "The payment has been declined for an unknown reason.",
+    "payment_error_do_not_try_again_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_duplicate_transaction_description": "You have attempted to resubmit a payment that is already complete.",
+    "payment_error_duplicate_transaction_next_step": "We will not process the payment again or take any funds.",
+    "payment_error_expired_card_description": "The payment has been declined for an unknown reason.",
+    "payment_error_expired_card_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_fraudulent_description": "The payment has been declined for an unknown reason.",
+    "payment_error_fraudulent_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_generic_decline_description": "The payment has been declined for an unknown reason.",
+    "payment_error_generic_decline_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_incorrect_number_description": "The card details you submitted were incorrect.",
+    "payment_error_incorrect_number_next_step": "Please retry the payment.",
+    "payment_error_incorrect_cvc_description": "The card details you submitted were incorrect.",
+    "payment_error_incorrect_cvc_next_step": "Please retry the payment.",
+    "payment_error_incorrect_pin_description": "The card details you submitted were incorrect.",
+    "payment_error_incorrect_pin_next_step": "Please retry the payment.",
+    "payment_error_incorrect_zip_description": "The card details you submitted were incorrect.",
+    "payment_error_incorrect_zip_next_step": "Please retry the payment.",
+    "payment_error_insufficient_funds_description": "The card has insufficient funds to complete the payment.",
+    "payment_error_insufficient_funds_next_step": "Please try another payment method.",
+    "payment_error_invalid_account_description": "The payment has been declined for an unknown reason.",
+    "payment_error_invalid_account_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_invalid_amount_description": "The payment has been declined for an unknown reason.",
+    "payment_error_invalid_amount_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_invalid_cvc_description": "The card details you submitted were incorrect.",
+    "payment_error_invalid_cvc_next_step": "Please retry the payment.",
+    "payment_error_invalid_expiry_month_description": "The card details you submitted were incorrect.",
+    "payment_error_invalid_expiry_month_next_step": "Please retry the payment.",
+    "payment_error_invalid_expiry_year_description": "The card details you submitted were incorrect.",
+    "payment_error_invalid_expiry_year_next_step": "Please retry the payment.",
+    "payment_error_invalid_number_description": "The card details you submitted were incorrect.",
+    "payment_error_invalid_number_next_step": "Please retry the payment.",
+    "payment_error_invalid_pin_description": "The payment has been declined for an unknown reason.",
+    "payment_error_invalid_pin_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_issuer_not_available_description": "We were unable to authorise your card payment.",
+    "payment_error_issuer_not_available_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_lost_card_description": "The payment has been declined for an unknown reason.",
+    "payment_error_lost_card_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_merchant_blacklist_description": "The payment has been declined for an unknown reason.",
+    "payment_error_merchant_blacklist_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_new_account_information_available_description": "The payment has been declined for an unknown reason.",
+    "payment_error_new_account_information_available_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_no_action_taken_description": "The payment has been declined for an unknown reason.",
+    "payment_error_no_action_taken_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_not_permitted_description": "We were unable to authorise your card payment.",
+    "payment_error_not_permitted_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_offline_pin_required_description": "The payment has been declined for an unknown reason.",
+    "payment_error_offline_pin_required_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_online_or_offline_pin_required_description": "The payment has been declined for an unknown reason.",
+    "payment_error_online_or_offline_pin_required_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_pickup_card_description": "The payment has been declined for an unknown reason.",
+    "payment_error_pickup_card_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_pin_try_exceeded_description": "The payment has been declined for an unknown reason.",
+    "payment_error_pin_try_exceeded_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_processing_error_description": "The payment has been declined for an unknown reason.",
+    "payment_error_processing_error_next_step": "Please retry. If the issue persists, please contact your card issuer.",
+    "payment_error_reenter_transaction_description": "The payment has been declined for an unknown reason.",
+    "payment_error_reenter_transaction_next_step": "Please retry. If the issue persists, please contact your card issuer.",
+    "payment_error_restricted_card_description": "The payment has been declined for an unknown reason.",
+    "payment_error_restricted_card_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_revocation_of_all_authorizations_description": "The payment has been declined for an unknown reason.",
+    "payment_error_revocation_of_all_authorizations_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_revocation_of_authorization_description": "The payment has been declined for an unknown reason.",
+    "payment_error_revocation_of_authorization_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_security_violation_description": "The payment has been declined for an unknown reason.",
+    "payment_error_security_violation_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_service_not_allowed_description": "The payment has been declined for an unknown reason.",
+    "payment_error_service_not_allowed_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_stolen_card_description": "The payment has been declined for an unknown reason.",
+    "payment_error_stolen_card_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_stop_payment_order_description": "The payment has been declined for an unknown reason.",
+    "payment_error_stop_payment_order_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_testmode_decline_description": "The payment has been declined for an unknown reason.",
+    "payment_error_testmode_decline_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_transaction_not_allowed_description": "The payment has been declined for an unknown reason.",
+    "payment_error_transaction_not_allowed_next_step": "Please try another payment method or contact your card issuer.",
+    "payment_error_try_again_later_description": "The payment has been declined for an unknown reason.",
+    "payment_error_try_again_later_next_step": "Please retry. If the issue persists, please contact your card issuer.",
+    "payment_error_withdrawal_count_limit_exceeded_description": "The card has insufficient funds to complete the payment.",
+    "payment_error_withdrawal_count_limit_exceeded_next_step": "Please try another payment method.",
+    "payment_error_other_description": "The payment has been declined for an unknown reason.",
+    "payment_error_other_next_step": "Please retry. If the issue persists, please contact your card issuer.",
+    "common_error_message": "<p>So that we can rectify the issue, please get in touch with Pivotal's support team using the contact options below. When you reach one of our team members, let them know which step of the onboarding process you got to.<\/p> <p> They will be able to pinpoint the problem and advise on next steps.<\/p>",
+    "common_error_title": "Oops. We seem to have run into a problem.",
+    "common_error_navigation": "Click here to go back to the onboarding homepage.",
+    "please_wait_prepare_payment": "Please wait while we prepare your payment. This should only take a few seconds.",
+    "generic_page_title": "WE'VE RUN INTO A PROBLEM ",
+    "generic_problem_content": "Oops. We seem to have run into a problem. Please try again and contact us if the issue persists.",
+    "generic_click_here": " to go back to the onboarding homepage.",
+    "click": "Click ",
+    "here": "here",
+    "please_wait_payment": "Please wait while we process your payment. This should only take a few seconds. ",
+    "kyc_step_footer_passed": "Please continue to the next step.",
+    "kyc_step_footer_failed": "Please see our <a target=\"_blank\" href=\"https:\/\/www.drivepivotal.com\/faqs\/#faq-joining-5\">eligibility criteria<\/a> for more detail.",
+    "kyc_step_failed_popup_content": "Unfortunately you have not met the eligibility criteria. Our Customer Services Team will further investigate this and be in contact with you shortly. For more information about our eligibility criteria, please see the frequently asked questions page on our website",
+    "kyc_step_popup_footer": "OUR CUSTOMER SERVICE TEAM WILL BE IN CONTACT",
+    "500_error": "The server has encountered a situation it does not know how to handle."
 }
