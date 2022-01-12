@@ -315,6 +315,6 @@
     "kyc_step_footer_passed": "Please continue to the next step.",
     "kyc_step_footer_failed": "Please see our <a target=\"_blank\" href=\"https:\/\/www.drivepivotal.com\/faqs\/#faq-joining-5\">eligibility criteria<\/a> for more detail.",
     "kyc_step_failed_popup_content": "Unfortunately you have not met the eligibility criteria. Our Customer Services Team will further investigate this and be in contact with you shortly. For more information about our eligibility criteria, please see the frequently asked questions page on our website",
-    "kyc_step_popup_footer": "OUR CUSTOMER SERVICE TEAM WILL BE IN CONTACT.",
+    "kyc_step_popup_footer": "OUR CUSTOMER SERVICE TEAM WILL BE IN CONTACT",
     "500_error": "The server has encountered a situation it does not know how to handle."
 }
