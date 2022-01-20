@@ -317,5 +317,6 @@
     "kyc_step_failed_popup_content": "Unfortunately you have not met the eligibility criteria. Our Customer Services Team will further investigate this and be in contact with you shortly. For more information about our eligibility criteria, please see the frequently asked questions page on our website",
     "kyc_step_popup_footer": "OUR CUSTOMER SERVICE TEAM WILL BE IN CONTACT",
     "500_error": "The server has encountered a situation it does not know how to handle.",
-    "personal_details_know_address_and_home": "We’ll need to know both your home address and billing address. If your billing address is different from your home address please check this box."
+    "personal_details_know_address_and_home": "We’ll need to know both your home address and billing address. If your billing address is different from your home address please check this box.",
+    "insurance_details": "Insurance details"
 }
