@@ -317,5 +317,6 @@
     "kyc_step_failed_popup_content": "",
     "kyc_step_popup_footer": "",
     "500_error": "",
-    "personal_details_know_address_and_home": ""
+    "personal_details_know_address_and_home": "",
+    "insurance_details": ""
 }
