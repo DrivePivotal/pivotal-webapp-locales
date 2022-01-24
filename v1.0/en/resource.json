@@ -318,5 +318,6 @@
     "kyc_step_popup_footer": "OUR CUSTOMER SERVICE TEAM WILL BE IN CONTACT",
     "500_error": "The server has encountered a situation it does not know how to handle.",
     "personal_details_know_address_and_home": "We’ll need to know both your home address and billing address. If your billing address is different from your home address please check this box.",
-    "insurance_details": "Insurance details"
+    "insurance_details": "Insurance details",
+    "term_and_condition_agree_message": "Please agree term and condition before submitting this form."
 }
