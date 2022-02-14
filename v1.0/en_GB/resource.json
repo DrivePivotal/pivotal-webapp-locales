@@ -319,5 +319,6 @@
     "500_error": "",
     "personal_details_know_address_and_home": "",
     "insurance_details": "",
-    "term_and_condition_agree_message": ""
+    "term_and_condition_agree_message": "",
+    "payment_note": ""
 }
